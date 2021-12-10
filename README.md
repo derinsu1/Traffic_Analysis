@@ -1,22 +1,18 @@
 # Traffic_Analysis
 
-
-![image](https://user-images.githubusercontent.com/54302889/145484767-a82e3e69-6bc9-4852-909d-d57eabe581ac.png)
-
 <p align="center"> 
       <img width="1000" alt="Traffic_Analysis" src="https://user-images.githubusercontent.com/54302889/145484767-a82e3e69-6bc9-4852-909d-d57eabe581ac.png">
 </p>
 
-Here is my Senior Design Project that I implemented to graduate from Computer Engineering. It is a chatbot made in RASA and helps the user to plan their vacation in the Turkish language. In order to plan the user's vacation, it provides reservations by asking various questions for hotel, flight, or event. 
+This project is used to analyse traffic congestion. It counts the number of vehicles on preferred lanes in a camera recording. Additionally, it estimates the velocities of the vehicles. This data can be used for many purposes. If used on a live recording, it can be used to optimize traffic lights in real-time.
 
 # How to Run the Project?
 
 1. Download or clone the project
-2. Unzip the data.zip file
-3. Run Traffic_Analysis.py file
+2. To use your own video recordings, run the VehicleDetection.ipynb file on Google Colab. (Skip this step if you wish to use the pre-uploaded videos)
+3. Run the Traffic_Analysis.py file
 4. Draw detection lines on preferred lanes
 5. Hit the enter or space key to start analysis
-
 
 # Interface
 
