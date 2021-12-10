@@ -8,7 +8,7 @@ This project is used to analyse traffic congestion. It counts the number of vehi
 
 # How to Run the Project?
 
-1. Download or clone the project
+1. Clone the project using git lfs, run this command: git lfs clone derinsu1/Traffic_Analysis
 2. To use your own video recordings, run the VehicleDetection.ipynb file on Google Colab. (Skip this step if you wish to use the pre-uploaded videos)
 3. Run the Traffic_Analysis.py file
 4. Draw detection lines on preferred lanes
