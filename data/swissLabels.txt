@@ -1,0 +1,4820 @@
+20,100,50,0.068
+ CUDNN_HALF=1
+Demo
+net.optimized_memory = 0 
+mini_batch = 1, batch = 8, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 32032 K-images (500 Kilo-batches_64) 
+video file: videoSwiss.mov
+Video stream: 3840 x 2160 
+Objects:
+
+
+FPS:0.0 	 AVG_FPS:0.0
+Objects:
+
+truck: 99% 	(left_x:  936   top_y:  904   width:  300   height:  423)
+car: 99% 	(left_x: 2905   top_y: 1250   width:  271   height:  217)
+car: 98% 	(left_x: 1435   top_y: 1096   width:  184   height:  152)
+car: 75% 	(left_x: 1463   top_y: 1023   width:  162   height:  131)
+
+FPS:1.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  935   top_y:  904   width:  299   height:  431)
+car: 100% 	(left_x: 2884   top_y: 1237   width:  273   height:  219)
+car: 99% 	(left_x: 1435   top_y: 1106   width:  183   height:  150)
+car: 76% 	(left_x: 1468   top_y: 1025   width:  153   height:  141)
+
+FPS:1.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  918   top_y:  908   width:  312   height:  437)
+car: 100% 	(left_x: 2864   top_y: 1230   width:  267   height:  209)
+car: 95% 	(left_x: 1431   top_y: 1108   width:  186   height:  160)
+car: 88% 	(left_x: 1466   top_y: 1031   width:  162   height:  127)
+
+FPS:2.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  915   top_y:  907   width:  313   height:  447)
+car: 100% 	(left_x: 2844   top_y: 1216   width:  274   height:  212)
+car: 98% 	(left_x: 1429   top_y: 1121   width:  190   height:  157)
+car: 84% 	(left_x: 1472   top_y: 1035   width:  152   height:   72)
+
+FPS:2.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  913   top_y:  919   width:  306   height:  446)
+truck: 71% 	(left_x: 1499   top_y:  619   width:   85   height:   47)
+car: 99% 	(left_x: 2830   top_y: 1210   width:  270   height:  201)
+car: 98% 	(left_x: 1421   top_y: 1127   width:  199   height:  160)
+car: 89% 	(left_x: 1458   top_y: 1047   width:  173   height:  142)
+
+FPS:2.6 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  905   top_y:  926   width:  307   height:  440)
+truck: 74% 	(left_x: 1501   top_y:  620   width:   81   height:   46)
+car: 100% 	(left_x: 2819   top_y: 1199   width:  253   height:  202)
+car: 95% 	(left_x: 1420   top_y: 1137   width:  199   height:  165)
+car: 92% 	(left_x: 1460   top_y: 1049   width:  171   height:  144)
+
+FPS:2.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  900   top_y:  925   width:  316   height:  451)
+truck: 73% 	(left_x: 1504   top_y:  622   width:   76   height:   44)
+car: 99% 	(left_x: 2803   top_y: 1188   width:  246   height:  200)
+car: 99% 	(left_x: 1423   top_y: 1143   width:  196   height:  166)
+car: 93% 	(left_x: 1463   top_y: 1054   width:  166   height:  147)
+
+FPS:2.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  885   top_y:  928   width:  326   height:  458)
+truck: 75% 	(left_x: 1505   top_y:  623   width:   74   height:   43)
+car: 100% 	(left_x: 2788   top_y: 1175   width:  247   height:  203)
+car: 98% 	(left_x: 1423   top_y: 1159   width:  197   height:  161)
+car: 86% 	(left_x: 1461   top_y: 1058   width:  170   height:  146)
+
+FPS:3.1 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  875   top_y:  933   width:  331   height:  454)
+truck: 75% 	(left_x: 1504   top_y:  621   width:   74   height:   45)
+car: 99% 	(left_x: 2772   top_y: 1170   width:  245   height:  196)
+car: 92% 	(left_x: 1413   top_y: 1162   width:  199   height:  167)
+car: 77% 	(left_x: 1451   top_y: 1070   width:  182   height:  154)
+
+FPS:3.3 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  871   top_y:  934   width:  333   height:  459)
+truck: 76% 	(left_x: 1503   top_y:  620   width:   77   height:   47)
+car: 100% 	(left_x: 2755   top_y: 1159   width:  248   height:  194)
+car: 98% 	(left_x: 1407   top_y: 1173   width:  209   height:  168)
+car: 91% 	(left_x: 1456   top_y: 1074   width:  176   height:  155)
+
+FPS:3.5 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  867   top_y:  936   width:  332   height:  463)
+truck: 74% 	(left_x: 1502   top_y:  621   width:   78   height:   47)
+car: 99% 	(left_x: 2745   top_y: 1150   width:  238   height:  191)
+car: 99% 	(left_x: 1404   top_y: 1179   width:  213   height:  175)
+car: 93% 	(left_x: 1454   top_y: 1080   width:  180   height:  158)
+
+FPS:3.8 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  865   top_y:  940   width:  333   height:  467)
+car: 100% 	(left_x: 2735   top_y: 1143   width:  228   height:  188)
+car: 99% 	(left_x: 1405   top_y: 1190   width:  211   height:  174)
+car: 93% 	(left_x: 1452   top_y: 1088   width:  186   height:  160)
+
+FPS:3.9 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  868   top_y:  945   width:  325   height:  474)
+car: 99% 	(left_x: 1403   top_y: 1201   width:  213   height:  175)
+car: 98% 	(left_x: 2717   top_y: 1140   width:  235   height:  178)
+car: 96% 	(left_x: 1448   top_y: 1095   width:  187   height:  162)
+
+FPS:4.0 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  857   top_y:  951   width:  327   height:  477)
+car: 99% 	(left_x: 2703   top_y: 1128   width:  230   height:  184)
+car: 99% 	(left_x: 1396   top_y: 1208   width:  221   height:  182)
+car: 95% 	(left_x: 1454   top_y: 1101   width:  179   height:  168)
+
+FPS:4.2 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  854   top_y:  951   width:  330   height:  494)
+car: 100% 	(left_x: 2693   top_y: 1120   width:  223   height:  181)
+car: 98% 	(left_x: 1392   top_y: 1218   width:  226   height:  187)
+car: 71% 	(left_x: 1454   top_y: 1107   width:  179   height:  165)
+
+FPS:4.4 	 AVG_FPS:0.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  822   top_y:  957   width:  359   height:  495)
+car: 99% 	(left_x: 2677   top_y: 1112   width:  223   height:  178)
+car: 99% 	(left_x: 1388   top_y: 1226   width:  232   height:  189)
+
+FPS:4.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  822   top_y:  952   width:  357   height:  513)
+truck: 72% 	(left_x: 1504   top_y:  622   width:   73   height:   46)
+car: 99% 	(left_x: 2669   top_y: 1103   width:  215   height:  176)
+car: 99% 	(left_x: 1389   top_y: 1239   width:  230   height:  192)
+car: 90% 	(left_x: 1445   top_y: 1124   width:  191   height:  174)
+
+FPS:4.6 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  818   top_y:  955   width:  360   height:  520)
+car: 99% 	(left_x: 2660   top_y: 1099   width:  207   height:  173)
+car: 99% 	(left_x: 1376   top_y: 1250   width:  243   height:  196)
+car: 95% 	(left_x: 1449   top_y: 1139   width:  188   height:  172)
+
+FPS:4.8 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  808   top_y:  963   width:  372   height:  520)
+car: 99% 	(left_x: 1379   top_y: 1262   width:  236   height:  195)
+car: 99% 	(left_x: 2646   top_y: 1091   width:  208   height:  170)
+car: 89% 	(left_x: 1444   top_y: 1146   width:  194   height:  176)
+car: 72% 	(left_x: 1500   top_y:  704   width:   65   height:   37)
+
+FPS:4.9 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  801   top_y:  966   width:  378   height:  527)
+car: 100% 	(left_x: 2631   top_y: 1087   width:  215   height:  162)
+car: 99% 	(left_x: 1374   top_y: 1270   width:  245   height:  202)
+
+FPS:5.0 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  803   top_y:  969   width:  375   height:  537)
+car: 99% 	(left_x: 1374   top_y: 1284   width:  236   height:  205)
+car: 98% 	(left_x: 2618   top_y: 1080   width:  212   height:  163)
+
+FPS:4.9 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  785   top_y:  976   width:  392   height:  535)
+car: 99% 	(left_x: 2610   top_y: 1071   width:  207   height:  163)
+car: 99% 	(left_x: 1373   top_y: 1297   width:  241   height:  209)
+
+FPS:5.0 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  763   top_y:  988   width:  411   height:  535)
+truck: 71% 	(left_x: 1496   top_y:  623   width:   83   height:   50)
+car: 99% 	(left_x: 1368   top_y: 1308   width:  241   height:  213)
+car: 99% 	(left_x: 2597   top_y: 1063   width:  205   height:  166)
+car: 88% 	(left_x: 1434   top_y: 1178   width:  204   height:  207)
+
+FPS:4.8 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  753   top_y:  989   width:  413   height:  543)
+car: 99% 	(left_x: 1355   top_y: 1322   width:  262   height:  216)
+car: 99% 	(left_x: 2583   top_y: 1058   width:  205   height:  164)
+
+FPS:4.9 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  740   top_y:  995   width:  418   height:  540)
+car: 99% 	(left_x: 2578   top_y: 1051   width:  196   height:  160)
+car: 99% 	(left_x: 1352   top_y: 1341   width:  261   height:  210)
+car: 88% 	(left_x: 1427   top_y: 1197   width:  215   height:  209)
+
+FPS:4.9 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  746   top_y: 1000   width:  408   height:  548)
+car: 100% 	(left_x: 1343   top_y: 1355   width:  268   height:  220)
+car: 99% 	(left_x: 2569   top_y: 1047   width:  194   height:  157)
+car: 70% 	(left_x: 1427   top_y: 1207   width:  215   height:  221)
+
+FPS:5.2 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  739   top_y: 1007   width:  409   height:  551)
+car: 99% 	(left_x: 2556   top_y: 1038   width:  195   height:  157)
+car: 99% 	(left_x: 1329   top_y: 1369   width:  282   height:  228)
+
+FPS:5.1 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  739   top_y: 1013   width:  408   height:  561)
+truck: 70% 	(left_x: 1495   top_y:  624   width:   77   height:   50)
+car: 100% 	(left_x: 2546   top_y: 1037   width:  197   height:  150)
+car: 99% 	(left_x: 1333   top_y: 1380   width:  277   height:  231)
+
+FPS:5.0 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  718   top_y: 1012   width:  428   height:  577)
+truck: 76% 	(left_x: 1495   top_y:  623   width:   75   height:   51)
+car: 100% 	(left_x: 2537   top_y: 1030   width:  196   height:  155)
+car: 100% 	(left_x: 1328   top_y: 1398   width:  282   height:  237)
+
+FPS:5.0 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  714   top_y: 1014   width:  426   height:  592)
+truck: 76% 	(left_x: 1494   top_y:  623   width:   75   height:   51)
+car: 99% 	(left_x: 2528   top_y: 1023   width:  191   height:  153)
+car: 99% 	(left_x: 1322   top_y: 1410   width:  284   height:  241)
+
+FPS:5.0 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  707   top_y: 1021   width:  420   height:  597)
+truck: 72% 	(left_x: 1493   top_y:  623   width:   77   height:   50)
+car: 99% 	(left_x: 2517   top_y: 1018   width:  191   height:  150)
+car: 99% 	(left_x: 1319   top_y: 1431   width:  288   height:  248)
+car: 90% 	(left_x: 1406   top_y: 1265   width:  236   height:  241)
+
+FPS:5.1 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  703   top_y: 1023   width:  418   height:  601)
+car: 99% 	(left_x: 1311   top_y: 1450   width:  299   height:  250)
+car: 99% 	(left_x: 2507   top_y: 1012   width:  191   height:  148)
+car: 84% 	(left_x: 1402   top_y: 1280   width:  237   height:  234)
+car: 73% 	(left_x: 1496   top_y:  715   width:   64   height:   39)
+
+FPS:5.2 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  691   top_y: 1027   width:  424   height:  610)
+car: 99% 	(left_x: 1299   top_y: 1469   width:  310   height:  255)
+car: 99% 	(left_x: 2503   top_y: 1005   width:  184   height:  145)
+car: 93% 	(left_x: 1396   top_y: 1293   width:  247   height:  229)
+
+FPS:5.2 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  665   top_y: 1035   width:  443   height:  615)
+truck: 70% 	(left_x: 1497   top_y:  622   width:   74   height:   53)
+car: 99% 	(left_x: 1290   top_y: 1489   width:  321   height:  259)
+car: 98% 	(left_x: 2491   top_y: 1001   width:  181   height:  146)
+car: 84% 	(left_x: 1397   top_y: 1309   width:  243   height:  237)
+car: 77% 	(left_x: 3717   top_y: 1750   width:  123   height:  411)
+car: 72% 	(left_x: 1493   top_y:  714   width:   68   height:   44)
+
+FPS:5.3 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  645   top_y: 1040   width:  459   height:  627)
+car: 99% 	(left_x: 1288   top_y: 1506   width:  311   height:  268)
+car: 99% 	(left_x: 2484   top_y:  998   width:  177   height:  144)
+car: 97% 	(left_x: 3663   top_y: 1768   width:  178   height:  358)
+car: 92% 	(left_x: 1398   top_y: 1320   width:  242   height:  242)
+
+FPS:5.4 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  651   top_y: 1049   width:  445   height:  645)
+truck: 73% 	(left_x: 1496   top_y:  622   width:   73   height:   55)
+car: 99% 	(left_x: 1274   top_y: 1524   width:  332   height:  280)
+car: 98% 	(left_x: 3620   top_y: 1735   width:  223   height:  346)
+car: 97% 	(left_x: 2480   top_y:  993   width:  172   height:  142)
+car: 89% 	(left_x: 1384   top_y: 1337   width:  251   height:  246)
+
+FPS:5.4 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  641   top_y: 1049   width:  450   height:  661)
+car: 100% 	(left_x: 1264   top_y: 1547   width:  336   height:  283)
+car: 100% 	(left_x: 2465   top_y:  985   width:  177   height:  143)
+car: 99% 	(left_x: 3580   top_y: 1712   width:  258   height:  315)
+car: 86% 	(left_x: 1375   top_y: 1349   width:  262   height:  249)
+
+FPS:5.4 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  619   top_y: 1061   width:  467   height:  657)
+truck: 71% 	(left_x: 1497   top_y:  630   width:   68   height:   57)
+car: 99% 	(left_x: 3534   top_y: 1678   width:  308   height:  333)
+car: 99% 	(left_x: 1256   top_y: 1579   width:  340   height:  278)
+car: 99% 	(left_x: 2458   top_y:  985   width:  176   height:  137)
+car: 76% 	(left_x: 1490   top_y:  720   width:   71   height:   44)
+car: 75% 	(left_x: 1373   top_y: 1365   width:  259   height:  256)
+
+FPS:5.4 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  604   top_y: 1068   width:  480   height:  660)
+truck: 70% 	(left_x: 1494   top_y:  630   width:   75   height:   57)
+car: 100% 	(left_x: 2452   top_y:  979   width:  172   height:  138)
+car: 100% 	(left_x: 3500   top_y: 1659   width:  342   height:  309)
+car: 99% 	(left_x: 1240   top_y: 1591   width:  361   height:  298)
+car: 79% 	(left_x: 1490   top_y:  721   width:   70   height:   43)
+car: 75% 	(left_x: 1368   top_y: 1381   width:  267   height:  266)
+
+FPS:5.4 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  588   top_y: 1079   width:  492   height:  663)
+truck: 72% 	(left_x: 1490   top_y:  631   width:   80   height:   56)
+car: 100% 	(left_x: 3458   top_y: 1633   width:  382   height:  312)
+car: 99% 	(left_x: 2443   top_y:  972   width:  176   height:  142)
+car: 99% 	(left_x: 1224   top_y: 1618   width:  367   height:  290)
+car: 80% 	(left_x: 1490   top_y:  722   width:   68   height:   43)
+car: 76% 	(left_x: 1361   top_y: 1397   width:  275   height:  266)
+
+FPS:5.4 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  577   top_y: 1091   width:  495   height:  664)
+truck: 89% 	(left_x: 1348   top_y: 1417   width:  289   height:  274)
+car: 100% 	(left_x: 3412   top_y: 1606   width:  425   height:  305)
+car: 99% 	(left_x: 1213   top_y: 1648   width:  379   height:  298)
+car: 99% 	(left_x: 2432   top_y:  968   width:  172   height:  140)
+car: 79% 	(left_x: 1489   top_y:  722   width:   71   height:   44)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  554   top_y: 1095   width:  522   height:  683)
+car: 100% 	(left_x: 3383   top_y: 1589   width:  413   height:  289)
+car: 99% 	(left_x: 1198   top_y: 1665   width:  385   height:  320)
+car: 96% 	(left_x: 2429   top_y:  963   width:  167   height:  138)
+car: 77% 	(left_x: 1489   top_y:  723   width:   72   height:   44)
+car: 76% 	(left_x: 1347   top_y: 1434   width:  288   height:  277)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  522   top_y: 1102   width:  537   height:  694)
+truck: 81% 	(left_x: 1332   top_y: 1447   width:  305   height:  305)
+car: 100% 	(left_x: 3347   top_y: 1558   width:  395   height:  302)
+car: 99% 	(left_x: 1187   top_y: 1688   width:  394   height:  341)
+car: 98% 	(left_x: 2420   top_y:  960   width:  167   height:  135)
+car: 78% 	(left_x: 1489   top_y:  722   width:   70   height:   46)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  517   top_y: 1104   width:  532   height:  707)
+car: 100% 	(left_x: 3306   top_y: 1550   width:  403   height:  277)
+car: 99% 	(left_x: 1172   top_y: 1710   width:  406   height:  357)
+car: 99% 	(left_x: 2414   top_y:  955   width:  166   height:  130)
+car: 78% 	(left_x: 1489   top_y:  723   width:   68   height:   46)
+car: 75% 	(left_x: 1332   top_y: 1475   width:  304   height:  288)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  504   top_y: 1111   width:  542   height:  714)
+car: 100% 	(left_x: 3285   top_y: 1520   width:  372   height:  279)
+car: 99% 	(left_x: 1150   top_y: 1739   width:  419   height:  364)
+car: 99% 	(left_x: 2403   top_y:  955   width:  166   height:  126)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  502   top_y: 1126   width:  530   height:  726)
+truck: 87% 	(left_x: 1323   top_y: 1518   width:  315   height:  307)
+truck: 71% 	(left_x: 1494   top_y:  632   width:   69   height:   57)
+car: 100% 	(left_x: 3248   top_y: 1506   width:  381   height:  270)
+car: 100% 	(left_x: 1131   top_y: 1772   width:  425   height:  378)
+car: 99% 	(left_x: 2396   top_y:  948   width:  162   height:  128)
+car: 77% 	(left_x: 1486   top_y:  725   width:   75   height:   44)
+
+FPS:6.0 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  484   top_y: 1132   width:  546   height:  732)
+car: 100% 	(left_x: 3216   top_y: 1495   width:  380   height:  255)
+car: 99% 	(left_x: 2389   top_y:  941   width:  165   height:  131)
+car: 98% 	(left_x: 1105   top_y: 1811   width:  444   height:  348)
+car: 84% 	(left_x: 1486   top_y:  727   width:   71   height:   45)
+
+FPS:5.9 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  480   top_y: 1142   width:  543   height:  739)
+truck: 72% 	(left_x: 1490   top_y:  632   width:   75   height:   57)
+car: 100% 	(left_x: 3200   top_y: 1464   width:  349   height:  269)
+car: 99% 	(left_x: 1095   top_y: 1840   width:  438   height:  325)
+car: 99% 	(left_x: 2385   top_y:  939   width:  162   height:  130)
+car: 92% 	(left_x: 1309   top_y: 1562   width:  314   height:  325)
+car: 87% 	(left_x: 1487   top_y:  728   width:   67   height:   44)
+
+FPS:5.9 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  445   top_y: 1150   width:  582   height:  749)
+car: 100% 	(left_x: 3170   top_y: 1454   width:  343   height:  254)
+car: 99% 	(left_x: 1068   top_y: 1890   width:  456   height:  272)
+car: 99% 	(left_x: 2378   top_y:  937   width:  162   height:  125)
+car: 92% 	(left_x: 1300   top_y: 1592   width:  321   height:  320)
+car: 82% 	(left_x: 1487   top_y:  730   width:   65   height:   44)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  419   top_y: 1154   width:  600   height:  772)
+car: 100% 	(left_x: 3146   top_y: 1437   width:  339   height:  252)
+car: 99% 	(left_x: 2365   top_y:  932   width:  167   height:  127)
+car: 99% 	(left_x: 1060   top_y: 1923   width:  457   height:  235)
+car: 91% 	(left_x: 1297   top_y: 1612   width:  325   height:  346)
+
+FPS:5.9 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  397   top_y: 1156   width:  610   height:  798)
+car: 100% 	(left_x: 3119   top_y: 1413   width:  331   height:  254)
+car: 99% 	(left_x: 2361   top_y:  931   width:  167   height:  124)
+car: 97% 	(left_x: 1028   top_y: 1967   width:  491   height:  193)
+car: 95% 	(left_x: 1291   top_y: 1645   width:  330   height:  337)
+
+FPS:6.0 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  383   top_y: 1174   width:  618   height:  796)
+truck: 73% 	(left_x: 1492   top_y:  631   width:   72   height:   60)
+car: 100% 	(left_x: 3097   top_y: 1403   width:  321   height:  243)
+car: 99% 	(left_x: 2357   top_y:  926   width:  163   height:  125)
+car: 98% 	(left_x: 1276   top_y: 1675   width:  343   height:  349)
+car: 92% 	(left_x: 1023   top_y: 2008   width:  509   height:  153)
+
+FPS:6.0 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  361   top_y: 1181   width:  621   height:  804)
+truck: 72% 	(left_x: 1490   top_y:  631   width:   76   height:   59)
+car: 100% 	(left_x: 3067   top_y: 1387   width:  321   height:  244)
+car: 96% 	(left_x: 2357   top_y:  924   width:  146   height:  120)
+car: 96% 	(left_x: 1260   top_y: 1701   width:  361   height:  379)
+car: 76% 	(left_x: 1005   top_y: 2057   width:  514   height:  103)
+
+FPS:6.0 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  334   top_y: 1183   width:  650   height:  849)
+truck: 75% 	(left_x: 1489   top_y:  638   width:   74   height:   52)
+car: 100% 	(left_x: 3049   top_y: 1375   width:  307   height:  230)
+car: 98% 	(left_x: 2344   top_y:  918   width:  154   height:  123)
+car: 97% 	(left_x: 1244   top_y: 1718   width:  375   height:  415)
+car: 77% 	(left_x: 1477   top_y:  733   width:   63   height:   49)
+
+FPS:6.0 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  329   top_y: 1194   width:  650   height:  848)
+truck: 74% 	(left_x: 1487   top_y:  639   width:   77   height:   51)
+car: 100% 	(left_x: 3027   top_y: 1354   width:  302   height:  238)
+car: 97% 	(left_x: 2340   top_y:  916   width:  154   height:  120)
+car: 94% 	(left_x: 1240   top_y: 1758   width:  386   height:  403)
+car: 84% 	(left_x: 1476   top_y:  735   width:   67   height:   47)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  305   top_y: 1209   width:  666   height:  860)
+truck: 73% 	(left_x: 1490   top_y:  641   width:   75   height:   50)
+car: 100% 	(left_x: 3006   top_y: 1346   width:  295   height:  228)
+car: 96% 	(left_x: 2335   top_y:  911   width:  150   height:  119)
+car: 80% 	(left_x: 1473   top_y:  736   width:   67   height:   48)
+car: 78% 	(left_x: 1226   top_y: 1797   width:  404   height:  360)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  292   top_y: 1215   width:  664   height:  877)
+truck: 71% 	(left_x: 1490   top_y:  637   width:   75   height:   56)
+car: 99% 	(left_x: 2980   top_y: 1332   width:  297   height:  224)
+car: 96% 	(left_x: 2325   top_y:  911   width:  153   height:  113)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  291   top_y: 1221   width:  648   height:  893)
+car: 100% 	(left_x: 2965   top_y: 1321   width:  285   height:  219)
+car: 95% 	(left_x: 2320   top_y:  906   width:  149   height:  115)
+car: 85% 	(left_x: 1207   top_y: 1883   width:  431   height:  277)
+
+FPS:5.6 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  266   top_y: 1240   width:  644   height:  908)
+car: 100% 	(left_x: 2950   top_y: 1306   width:  280   height:  219)
+car: 97% 	(left_x: 2313   top_y:  906   width:  149   height:  112)
+car: 94% 	(left_x: 1209   top_y: 1922   width:  429   height:  237)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  244   top_y: 1237   width:  667   height:  918)
+car: 100% 	(left_x: 2934   top_y: 1298   width:  269   height:  206)
+car: 96% 	(left_x: 2307   top_y:  901   width:  147   height:  113)
+car: 71% 	(left_x: 1467   top_y:  749   width:   70   height:   41)
+
+FPS:5.5 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x:  225   top_y: 1263   width:  676   height:  898)
+car: 100% 	(left_x: 2903   top_y: 1285   width:  282   height:  209)
+car: 97% 	(left_x: 2305   top_y:  895   width:  144   height:  115)
+car: 89% 	(left_x: 1169   top_y: 2010   width:  462   height:  150)
+car: 78% 	(left_x: 1466   top_y:  747   width:   75   height:   45)
+
+FPS:5.4 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x:  184   top_y: 1263   width:  710   height:  900)
+car: 100% 	(left_x: 2890   top_y: 1275   width:  269   height:  204)
+car: 98% 	(left_x: 2301   top_y:  892   width:  145   height:  114)
+car: 76% 	(left_x: 1465   top_y:  746   width:   72   height:   48)
+
+FPS:5.5 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x:  128   top_y: 1279   width:  753   height:  884)
+car: 99% 	(left_x: 2872   top_y: 1266   width:  265   height:  201)
+car: 98% 	(left_x: 2297   top_y:  887   width:  144   height:  116)
+
+FPS:5.5 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x:   87   top_y: 1289   width:  786   height:  880)
+truck: 72% 	(left_x: 1486   top_y:  639   width:   74   height:   56)
+car: 100% 	(left_x: 2855   top_y: 1251   width:  263   height:  204)
+car: 92% 	(left_x: 2294   top_y:  884   width:  139   height:  116)
+car: 71% 	(left_x: 1461   top_y:  748   width:   78   height:   49)
+
+FPS:5.6 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:   96   top_y: 1316   width:  764   height:  849)
+car: 100% 	(left_x: 2835   top_y: 1239   width:  263   height:  201)
+car: 97% 	(left_x: 2285   top_y:  882   width:  141   height:  115)
+
+FPS:5.5 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x:   37   top_y: 1336   width:  799   height:  822)
+car: 100% 	(left_x: 2821   top_y: 1231   width:  258   height:  194)
+car: 99% 	(left_x: 2279   top_y:  880   width:  145   height:  115)
+car: 74% 	(left_x: 1458   top_y:  749   width:   79   height:   52)
+
+FPS:5.4 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:    6   top_y: 1348   width:  826   height:  813)
+car: 100% 	(left_x: 2807   top_y: 1220   width:  254   height:  191)
+car: 99% 	(left_x: 2271   top_y:  878   width:  149   height:  112)
+car: 82% 	(left_x: 1458   top_y:  751   width:   75   height:   51)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x:   15   top_y: 1359   width:  795   height:  799)
+car: 100% 	(left_x: 2792   top_y: 1208   width:  246   height:  192)
+car: 99% 	(left_x: 2271   top_y:  876   width:  133   height:  108)
+
+FPS:5.6 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x:   11   top_y: 1375   width:  756   height:  782)
+car: 100% 	(left_x: 2785   top_y: 1199   width:  236   height:  190)
+car: 99% 	(left_x: 2266   top_y:  872   width:  134   height:  109)
+
+FPS:5.6 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 94% 	(left_x:    0   top_y: 1393   width:  752   height:  763)
+car: 100% 	(left_x: 2758   top_y: 1195   width:  246   height:  182)
+car: 99% 	(left_x: 2262   top_y:  869   width:  134   height:  107)
+car: 71% 	(left_x: 1585   top_y:  641   width:   48   height:   41)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x:    0   top_y: 1420   width:  752   height:  714)
+car: 100% 	(left_x: 2750   top_y: 1182   width:  234   height:  186)
+car: 97% 	(left_x: 2257   top_y:  867   width:  136   height:  104)
+car: 77% 	(left_x: 1451   top_y:  754   width:   83   height:   52)
+car: 72% 	(left_x: 1580   top_y:  642   width:   55   height:   42)
+
+FPS:5.4 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 89% 	(left_x:    0   top_y: 1425   width:  727   height:  736)
+car: 100% 	(left_x: 2736   top_y: 1176   width:  238   height:  178)
+car: 95% 	(left_x: 2252   top_y:  863   width:  131   height:  105)
+car: 89% 	(left_x: 1452   top_y:  756   width:   81   height:   53)
+car: 71% 	(left_x: 1585   top_y:  645   width:   50   height:   41)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 92% 	(left_x:    0   top_y: 1426   width:  737   height:  732)
+truck: 72% 	(left_x: 1479   top_y:  615   width:   78   height:   89)
+car: 99% 	(left_x: 2722   top_y: 1165   width:  232   height:  180)
+car: 88% 	(left_x: 2249   top_y:  861   width:  128   height:  105)
+car: 80% 	(left_x: 1450   top_y:  756   width:   81   height:   55)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 84% 	(left_x:    0   top_y: 1454   width:  711   height:  704)
+truck: 70% 	(left_x: 1483   top_y:  627   width:   72   height:   73)
+car: 100% 	(left_x: 2712   top_y: 1158   width:  225   height:  174)
+car: 95% 	(left_x: 2243   top_y:  860   width:  130   height:  101)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 82% 	(left_x:    0   top_y: 1463   width:  690   height:  701)
+car: 100% 	(left_x: 2699   top_y: 1151   width:  225   height:  172)
+car: 97% 	(left_x: 2239   top_y:  853   width:  129   height:  108)
+car: 75% 	(left_x: 1448   top_y:  760   width:   79   height:   54)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 75% 	(left_x:    3   top_y: 1497   width:  654   height:  662)
+car: 100% 	(left_x: 2685   top_y: 1143   width:  222   height:  168)
+car: 98% 	(left_x: 2233   top_y:  854   width:  128   height:  102)
+
+FPS:5.4 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 79% 	(left_x:    0   top_y: 1500   width:  648   height:  662)
+car: 100% 	(left_x: 2670   top_y: 1136   width:  222   height:  170)
+car: 97% 	(left_x: 2230   top_y:  851   width:  124   height:  103)
+car: 78% 	(left_x: 1445   top_y:  759   width:   82   height:   57)
+
+FPS:5.4 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2657   top_y: 1127   width:  219   height:  169)
+car: 98% 	(left_x: 2225   top_y:  848   width:  127   height:  100)
+car: 85% 	(left_x: 1443   top_y:  760   width:   85   height:   58)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2647   top_y: 1122   width:  218   height:  162)
+car: 97% 	(left_x: 2218   top_y:  846   width:  129   height:  100)
+car: 77% 	(left_x: 1443   top_y:  761   width:   82   height:   58)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2636   top_y: 1118   width:  216   height:  157)
+car: 92% 	(left_x: 2219   top_y:  846   width:  123   height:   95)
+
+FPS:5.4 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2630   top_y: 1105   width:  206   height:  162)
+car: 98% 	(left_x: 2215   top_y:  843   width:  121   height:   94)
+car: 74% 	(left_x: 1584   top_y:  652   width:   49   height:   39)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2620   top_y: 1100   width:  204   height:  158)
+car: 95% 	(left_x: 2208   top_y:  839   width:  123   height:   96)
+car: 74% 	(left_x: 1442   top_y:  765   width:   77   height:   57)
+car: 72% 	(left_x: 1583   top_y:  652   width:   52   height:   40)
+
+FPS:5.4 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2607   top_y: 1096   width:  204   height:  152)
+car: 89% 	(left_x: 2208   top_y:  837   width:  118   height:   96)
+car: 72% 	(left_x: 1441   top_y:  770   width:   79   height:   55)
+
+FPS:5.4 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2595   top_y: 1088   width:  205   height:  153)
+car: 97% 	(left_x: 2202   top_y:  835   width:  121   height:   95)
+car: 81% 	(left_x: 1440   top_y:  772   width:   81   height:   54)
+
+FPS:5.3 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2581   top_y: 1077   width:  203   height:  158)
+car: 96% 	(left_x: 2195   top_y:  831   width:  125   height:   97)
+car: 82% 	(left_x: 1438   top_y:  772   width:   81   height:   54)
+car: 79% 	(left_x: 1582   top_y:  656   width:   57   height:   37)
+
+FPS:5.2 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 76% 	(left_x: 1473   top_y:  620   width:   78   height:   85)
+car: 99% 	(left_x: 2576   top_y: 1072   width:  200   height:  154)
+car: 96% 	(left_x: 2192   top_y:  831   width:  125   height:   95)
+car: 80% 	(left_x: 1582   top_y:  654   width:   55   height:   40)
+car: 79% 	(left_x: 1436   top_y:  773   width:   81   height:   55)
+
+FPS:5.2 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 73% 	(left_x: 1472   top_y:  619   width:   79   height:   85)
+car: 99% 	(left_x: 2565   top_y: 1065   width:  202   height:  153)
+car: 98% 	(left_x: 2188   top_y:  827   width:  119   height:   96)
+car: 83% 	(left_x: 1435   top_y:  774   width:   79   height:   56)
+car: 82% 	(left_x: 1581   top_y:  652   width:   55   height:   41)
+
+FPS:5.3 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2560   top_y: 1059   width:  192   height:  149)
+car: 98% 	(left_x: 2187   top_y:  827   width:  117   height:   92)
+car: 81% 	(left_x: 1582   top_y:  654   width:   51   height:   40)
+car: 79% 	(left_x: 1433   top_y:  773   width:   79   height:   58)
+
+FPS:5.2 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2544   top_y: 1055   width:  193   height:  146)
+car: 97% 	(left_x: 2183   top_y:  823   width:  116   height:   92)
+car: 81% 	(left_x: 1582   top_y:  654   width:   53   height:   40)
+car: 76% 	(left_x: 1432   top_y:  774   width:   79   height:   59)
+
+FPS:5.2 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2543   top_y: 1049   width:  184   height:  145)
+car: 98% 	(left_x: 2180   top_y:  821   width:  117   height:   90)
+car: 81% 	(left_x: 1578   top_y:  658   width:   60   height:   38)
+car: 76% 	(left_x: 1431   top_y:  777   width:   80   height:   57)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2527   top_y: 1044   width:  192   height:  143)
+car: 98% 	(left_x: 2173   top_y:  818   width:  124   height:   92)
+car: 84% 	(left_x: 1581   top_y:  659   width:   56   height:   36)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2518   top_y: 1038   width:  191   height:  143)
+car: 98% 	(left_x: 2173   top_y:  818   width:  119   height:   89)
+car: 80% 	(left_x: 1578   top_y:  659   width:   60   height:   38)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 76% 	(left_x: 1468   top_y:  616   width:   88   height:   93)
+car: 100% 	(left_x: 2508   top_y: 1033   width:  192   height:  145)
+car: 98% 	(left_x: 2172   top_y:  817   width:  114   height:   88)
+car: 72% 	(left_x: 1429   top_y:  783   width:   81   height:   60)
+car: 71% 	(left_x: 1575   top_y:  659   width:   67   height:   39)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2507   top_y: 1025   width:  179   height:  144)
+car: 96% 	(left_x: 2169   top_y:  815   width:  112   height:   88)
+car: 81% 	(left_x: 1426   top_y:  784   width:   85   height:   60)
+car: 74% 	(left_x: 1576   top_y:  659   width:   64   height:   40)
+car: 73% 	(left_x: 1465   top_y:  668   width:   75   height:   44)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2495   top_y: 1022   width:  182   height:  140)
+car: 96% 	(left_x: 2163   top_y:  811   width:  112   height:   90)
+car: 80% 	(left_x: 1424   top_y:  786   width:   89   height:   60)
+car: 73% 	(left_x: 1578   top_y:  660   width:   61   height:   39)
+car: 73% 	(left_x: 1463   top_y:  673   width:   78   height:   41)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2484   top_y: 1016   width:  183   height:  140)
+car: 96% 	(left_x: 2163   top_y:  810   width:  109   height:   90)
+car: 86% 	(left_x: 1573   top_y:  667   width:   68   height:   35)
+car: 77% 	(left_x: 1422   top_y:  786   width:   91   height:   60)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2480   top_y: 1008   width:  175   height:  138)
+car: 89% 	(left_x: 2157   top_y:  808   width:  114   height:   91)
+car: 85% 	(left_x: 1575   top_y:  667   width:   64   height:   34)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2471   top_y: 1008   width:  172   height:  133)
+car: 86% 	(left_x: 2155   top_y:  805   width:  110   height:   90)
+car: 84% 	(left_x: 1575   top_y:  667   width:   67   height:   35)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2462   top_y: 1006   width:  177   height:  129)
+car: 98% 	(left_x: 2152   top_y:  803   width:  109   height:   90)
+car: 83% 	(left_x: 1577   top_y:  666   width:   63   height:   37)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2457   top_y:  996   width:  172   height:  133)
+car: 91% 	(left_x: 2147   top_y:  802   width:  110   height:   88)
+car: 87% 	(left_x: 1572   top_y:  666   width:   67   height:   38)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 2452   top_y:  990   width:  171   height:  133)
+car: 97% 	(left_x: 2147   top_y:  798   width:  106   height:   90)
+car: 91% 	(left_x: 1573   top_y:  667   width:   67   height:   37)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2436   top_y:  989   width:  172   height:  129)
+car: 90% 	(left_x: 1571   top_y:  668   width:   66   height:   36)
+car: 89% 	(left_x: 2141   top_y:  798   width:  106   height:   87)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2428   top_y:  984   width:  173   height:  132)
+car: 96% 	(left_x: 2138   top_y:  795   width:  107   height:   87)
+car: 89% 	(left_x: 1572   top_y:  668   width:   66   height:   36)
+
+FPS:6.2 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2425   top_y:  976   width:  168   height:  136)
+car: 91% 	(left_x: 1570   top_y:  668   width:   64   height:   38)
+car: 84% 	(left_x: 2137   top_y:  794   width:  104   height:   86)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2422   top_y:  971   width:  160   height:  134)
+car: 96% 	(left_x: 2131   top_y:  792   width:  109   height:   86)
+car: 90% 	(left_x: 1571   top_y:  668   width:   64   height:   38)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2412   top_y:  969   width:  164   height:  127)
+car: 92% 	(left_x: 2128   top_y:  792   width:  107   height:   84)
+car: 90% 	(left_x: 1574   top_y:  669   width:   62   height:   39)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2405   top_y:  966   width:  167   height:  126)
+car: 92% 	(left_x: 2125   top_y:  790   width:  107   height:   84)
+car: 90% 	(left_x: 1570   top_y:  668   width:   64   height:   40)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2404   top_y:  965   width:  155   height:  123)
+car: 90% 	(left_x: 1573   top_y:  669   width:   60   height:   40)
+car: 79% 	(left_x: 2122   top_y:  788   width:  107   height:   84)
+
+FPS:6.3 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2389   top_y:  957   width:  165   height:  124)
+car: 91% 	(left_x: 1572   top_y:  670   width:   60   height:   40)
+car: 85% 	(left_x: 1401   top_y:  809   width:   93   height:   60)
+car: 82% 	(left_x: 2124   top_y:  786   width:  104   height:   85)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 70% 	(left_x: 1465   top_y:  674   width:   75   height:   50)
+car: 99% 	(left_x: 2384   top_y:  952   width:  162   height:  126)
+car: 88% 	(left_x: 1572   top_y:  672   width:   62   height:   39)
+car: 84% 	(left_x: 1399   top_y:  811   width:   95   height:   62)
+
+FPS:6.3 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 71% 	(left_x: 1467   top_y:  674   width:   71   height:   49)
+car: 99% 	(left_x: 2382   top_y:  949   width:  157   height:  124)
+car: 85% 	(left_x: 1573   top_y:  672   width:   59   height:   40)
+car: 84% 	(left_x: 1398   top_y:  812   width:   93   height:   62)
+
+FPS:6.2 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2374   top_y:  946   width:  159   height:  122)
+car: 87% 	(left_x: 1574   top_y:  672   width:   60   height:   40)
+car: 87% 	(left_x: 2117   top_y:  778   width:  101   height:   85)
+car: 76% 	(left_x: 1398   top_y:  814   width:   93   height:   60)
+
+FPS:6.2 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2367   top_y:  943   width:  162   height:  120)
+car: 91% 	(left_x: 1575   top_y:  673   width:   56   height:   40)
+car: 91% 	(left_x: 2114   top_y:  778   width:  101   height:   83)
+car: 77% 	(left_x: 1394   top_y:  815   width:   96   height:   62)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2361   top_y:  938   width:  162   height:  120)
+car: 95% 	(left_x: 2107   top_y:  777   width:  100   height:   81)
+car: 92% 	(left_x: 1579   top_y:  673   width:   53   height:   40)
+car: 81% 	(left_x: 1394   top_y:  818   width:   97   height:   63)
+
+FPS:6.2 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2357   top_y:  936   width:  154   height:  119)
+car: 93% 	(left_x: 2104   top_y:  777   width:  104   height:   79)
+car: 91% 	(left_x: 1578   top_y:  675   width:   54   height:   39)
+car: 87% 	(left_x: 1392   top_y:  817   width:   99   height:   65)
+
+FPS:6.2 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2353   top_y:  934   width:  151   height:  117)
+car: 90% 	(left_x: 1580   top_y:  674   width:   54   height:   40)
+car: 90% 	(left_x: 2103   top_y:  776   width:   98   height:   77)
+car: 74% 	(left_x: 1392   top_y:  819   width:   96   height:   64)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2344   top_y:  932   width:  149   height:  111)
+car: 95% 	(left_x: 2099   top_y:  775   width:  100   height:   78)
+car: 90% 	(left_x: 1583   top_y:  675   width:   50   height:   42)
+car: 79% 	(left_x: 1390   top_y:  822   width:   97   height:   67)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 2338   top_y:  926   width:  150   height:  114)
+car: 90% 	(left_x: 1582   top_y:  675   width:   49   height:   41)
+car: 84% 	(left_x: 1388   top_y:  822   width:   98   height:   67)
+car: 80% 	(left_x: 2099   top_y:  774   width:   97   height:   78)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2331   top_y:  923   width:  151   height:  112)
+car: 94% 	(left_x: 2092   top_y:  770   width:  103   height:   81)
+car: 88% 	(left_x: 1579   top_y:  675   width:   55   height:   41)
+car: 84% 	(left_x: 1389   top_y:  825   width:   95   height:   65)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2325   top_y:  920   width:  149   height:  113)
+car: 88% 	(left_x: 1579   top_y:  676   width:   52   height:   43)
+car: 77% 	(left_x: 2092   top_y:  771   width:  101   height:   78)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2324   top_y:  919   width:  147   height:  107)
+car: 89% 	(left_x: 1580   top_y:  679   width:   51   height:   41)
+car: 87% 	(left_x: 2089   top_y:  766   width:  103   height:   82)
+car: 83% 	(left_x: 1383   top_y:  831   width:  100   height:   63)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2322   top_y:  914   width:  138   height:  109)
+car: 90% 	(left_x: 1581   top_y:  680   width:   52   height:   39)
+car: 90% 	(left_x: 2086   top_y:  767   width:  101   height:   80)
+car: 86% 	(left_x: 1382   top_y:  833   width:  101   height:   63)
+
+FPS:5.9 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2316   top_y:  908   width:  138   height:  109)
+car: 92% 	(left_x: 1379   top_y:  836   width:  104   height:   65)
+car: 90% 	(left_x: 1579   top_y:  679   width:   55   height:   39)
+car: 88% 	(left_x: 2085   top_y:  766   width:   99   height:   77)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 71% 	(left_x: 1458   top_y:  674   width:   82   height:   58)
+car: 98% 	(left_x: 2305   top_y:  906   width:  147   height:  110)
+car: 95% 	(left_x: 2079   top_y:  765   width:  103   height:   76)
+car: 91% 	(left_x: 1380   top_y:  838   width:  101   height:   65)
+car: 85% 	(left_x: 1580   top_y:  681   width:   55   height:   41)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 72% 	(left_x: 1462   top_y:  676   width:   76   height:   55)
+car: 97% 	(left_x: 2306   top_y:  902   width:  139   height:  109)
+car: 93% 	(left_x: 2077   top_y:  766   width:  102   height:   73)
+car: 89% 	(left_x: 1378   top_y:  837   width:  103   height:   70)
+car: 84% 	(left_x: 1580   top_y:  679   width:   54   height:   44)
+
+FPS:5.6 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 71% 	(left_x: 1465   top_y:  679   width:   71   height:   52)
+car: 98% 	(left_x: 2305   top_y:  901   width:  132   height:  105)
+car: 93% 	(left_x: 2078   top_y:  763   width:   98   height:   74)
+car: 89% 	(left_x: 1375   top_y:  840   width:  106   height:   70)
+car: 88% 	(left_x: 1580   top_y:  681   width:   52   height:   39)
+
+FPS:5.6 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2298   top_y:  897   width:  132   height:  105)
+car: 90% 	(left_x: 1373   top_y:  842   width:  106   height:   74)
+car: 87% 	(left_x: 2074   top_y:  762   width:  102   height:   72)
+car: 84% 	(left_x: 1574   top_y:  683   width:   59   height:   40)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2293   top_y:  895   width:  134   height:  105)
+car: 88% 	(left_x: 1373   top_y:  843   width:  108   height:   72)
+car: 87% 	(left_x: 2077   top_y:  761   width:   97   height:   72)
+car: 82% 	(left_x: 1574   top_y:  683   width:   60   height:   41)
+
+FPS:6.1 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2286   top_y:  888   width:  138   height:  111)
+car: 83% 	(left_x: 1372   top_y:  843   width:  106   height:   73)
+car: 79% 	(left_x: 1572   top_y:  683   width:   63   height:   42)
+
+FPS:6.0 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2283   top_y:  886   width:  136   height:  110)
+car: 97% 	(left_x: 1369   top_y:  847   width:  108   height:   74)
+car: 82% 	(left_x: 1574   top_y:  682   width:   60   height:   44)
+car: 74% 	(left_x: 2069   top_y:  754   width:   98   height:   76)
+
+FPS:6.0 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2275   top_y:  885   width:  138   height:  108)
+car: 94% 	(left_x: 1369   top_y:  851   width:  105   height:   73)
+car: 79% 	(left_x: 1578   top_y:  685   width:   51   height:   40)
+car: 79% 	(left_x: 2068   top_y:  752   width:   96   height:   77)
+
+FPS:5.9 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 2272   top_y:  882   width:  131   height:  105)
+car: 95% 	(left_x: 1369   top_y:  853   width:  106   height:   72)
+car: 81% 	(left_x: 1575   top_y:  685   width:   56   height:   40)
+car: 73% 	(left_x: 2068   top_y:  749   width:   94   height:   77)
+
+FPS:5.9 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2273   top_y:  880   width:  127   height:  102)
+car: 96% 	(left_x: 2064   top_y:  750   width:   94   height:   75)
+car: 94% 	(left_x: 1366   top_y:  853   width:  110   height:   74)
+car: 83% 	(left_x: 1577   top_y:  684   width:   56   height:   43)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 2265   top_y:  878   width:  131   height:  101)
+car: 90% 	(left_x: 1363   top_y:  854   width:  109   height:   78)
+car: 78% 	(left_x: 1576   top_y:  692   width:   61   height:   41)
+car: 71% 	(left_x: 2062   top_y:  748   width:   90   height:   76)
+
+FPS:5.9 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 95% 	(left_x: 2256   top_y:  877   width:  131   height:   98)
+car: 90% 	(left_x: 1362   top_y:  857   width:  111   height:   77)
+car: 86% 	(left_x: 2061   top_y:  751   width:   91   height:   70)
+car: 84% 	(left_x: 1581   top_y:  694   width:   54   height:   37)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 95% 	(left_x: 2057   top_y:  750   width:   91   height:   71)
+car: 95% 	(left_x: 2256   top_y:  872   width:  125   height:   97)
+car: 90% 	(left_x: 1361   top_y:  860   width:  113   height:   75)
+car: 88% 	(left_x: 1578   top_y:  695   width:   59   height:   41)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 2250   top_y:  871   width:  126   height:   96)
+car: 89% 	(left_x: 1576   top_y:  694   width:   60   height:   42)
+car: 88% 	(left_x: 1355   top_y:  862   width:  113   height:   77)
+car: 86% 	(left_x: 2058   top_y:  749   width:   89   height:   72)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 92% 	(left_x: 2060   top_y:  748   width:   84   height:   71)
+car: 87% 	(left_x: 2245   top_y:  869   width:  129   height:   95)
+car: 86% 	(left_x: 1578   top_y:  693   width:   59   height:   44)
+car: 86% 	(left_x: 1354   top_y:  865   width:  114   height:   76)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 94% 	(left_x: 1353   top_y:  867   width:  115   height:   77)
+car: 91% 	(left_x: 2243   top_y:  865   width:  126   height:   98)
+car: 86% 	(left_x: 1583   top_y:  694   width:   55   height:   43)
+car: 75% 	(left_x: 2056   top_y:  746   width:   85   height:   70)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 95% 	(left_x: 2239   top_y:  862   width:  124   height:   99)
+car: 94% 	(left_x: 1354   top_y:  870   width:  112   height:   75)
+car: 87% 	(left_x: 1582   top_y:  694   width:   55   height:   46)
+car: 77% 	(left_x: 2053   top_y:  744   width:   87   height:   71)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 96% 	(left_x: 2232   top_y:  863   width:  123   height:   95)
+car: 94% 	(left_x: 1352   top_y:  872   width:  111   height:   77)
+car: 84% 	(left_x: 1577   top_y:  695   width:   60   height:   46)
+car: 73% 	(left_x: 2054   top_y:  743   width:   84   height:   68)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 95% 	(left_x: 2230   top_y:  858   width:  122   height:   97)
+car: 93% 	(left_x: 1350   top_y:  872   width:  113   height:   82)
+car: 87% 	(left_x: 1580   top_y:  697   width:   56   height:   43)
+car: 78% 	(left_x: 2050   top_y:  743   width:   86   height:   68)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 2225   top_y:  854   width:  126   height:   96)
+car: 89% 	(left_x: 2048   top_y:  742   width:   85   height:   68)
+car: 88% 	(left_x: 1348   top_y:  879   width:  114   height:   76)
+car: 87% 	(left_x: 1580   top_y:  697   width:   56   height:   45)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 2218   top_y:  852   width:  130   height:   95)
+car: 89% 	(left_x: 1343   top_y:  880   width:  119   height:   79)
+car: 87% 	(left_x: 1574   top_y:  700   width:   59   height:   44)
+car: 83% 	(left_x: 2048   top_y:  742   width:   83   height:   65)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 2222   top_y:  850   width:  118   height:   91)
+car: 92% 	(left_x: 1343   top_y:  882   width:  119   height:   79)
+car: 89% 	(left_x: 1574   top_y:  700   width:   63   height:   45)
+car: 76% 	(left_x: 2047   top_y:  742   width:   81   height:   65)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 1343   top_y:  884   width:  119   height:   80)
+car: 94% 	(left_x: 2220   top_y:  848   width:  114   height:   90)
+car: 89% 	(left_x: 1578   top_y:  699   width:   60   height:   45)
+car: 73% 	(left_x: 2042   top_y:  739   width:   84   height:   67)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 94% 	(left_x: 1341   top_y:  888   width:  120   height:   78)
+car: 90% 	(left_x: 2221   top_y:  848   width:  109   height:   88)
+car: 88% 	(left_x: 1580   top_y:  700   width:   57   height:   46)
+
+FPS:5.6 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 96% 	(left_x: 2208   top_y:  847   width:  117   height:   88)
+car: 96% 	(left_x: 1338   top_y:  892   width:  121   height:   78)
+car: 88% 	(left_x: 1577   top_y:  703   width:   56   height:   44)
+car: 83% 	(left_x: 2045   top_y:  739   width:   77   height:   64)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 94% 	(left_x: 1336   top_y:  895   width:  118   height:   80)
+car: 86% 	(left_x: 2205   top_y:  839   width:  116   height:   94)
+car: 85% 	(left_x: 1576   top_y:  703   width:   59   height:   44)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 94% 	(left_x: 1333   top_y:  894   width:  120   height:   82)
+car: 93% 	(left_x: 2203   top_y:  839   width:  117   height:   93)
+car: 91% 	(left_x: 1579   top_y:  703   width:   57   height:   44)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 95% 	(left_x: 1328   top_y:  900   width:  121   height:   82)
+car: 91% 	(left_x: 1577   top_y:  703   width:   58   height:   47)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 92% 	(left_x: 1330   top_y:  904   width:  117   height:   82)
+car: 88% 	(left_x: 1577   top_y:  705   width:   60   height:   45)
+car: 76% 	(left_x: 2195   top_y:  834   width:  109   height:   90)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1323   top_y:  907   width:  124   height:   80)
+car: 92% 	(left_x: 2187   top_y:  833   width:  117   height:   89)
+car: 92% 	(left_x: 1576   top_y:  705   width:   61   height:   46)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 94% 	(left_x: 1321   top_y:  910   width:  126   height:   81)
+car: 93% 	(left_x: 1575   top_y:  705   width:   61   height:   46)
+car: 87% 	(left_x: 2188   top_y:  829   width:  111   height:   90)
+car: 74% 	(left_x: 2025   top_y:  727   width:   86   height:   68)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 2183   top_y:  830   width:  115   height:   86)
+car: 96% 	(left_x: 1320   top_y:  914   width:  125   height:   81)
+car: 92% 	(left_x: 1573   top_y:  704   width:   61   height:   50)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1318   top_y:  916   width:  126   height:   83)
+car: 92% 	(left_x: 1569   top_y:  705   width:   65   height:   49)
+car: 85% 	(left_x: 2182   top_y:  827   width:  111   height:   85)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 1318   top_y:  919   width:  125   height:   84)
+car: 91% 	(left_x: 1574   top_y:  705   width:   60   height:   48)
+car: 81% 	(left_x: 2179   top_y:  824   width:  110   height:   85)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1317   top_y:  921   width:  127   height:   86)
+car: 95% 	(left_x: 2175   top_y:  823   width:  111   height:   84)
+car: 85% 	(left_x: 1572   top_y:  705   width:   63   height:   52)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 93% 	(left_x: 1311   top_y:  924   width:  130   height:   88)
+car: 84% 	(left_x: 1571   top_y:  707   width:   62   height:   51)
+car: 83% 	(left_x: 2173   top_y:  822   width:  108   height:   83)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 95% 	(left_x: 1308   top_y:  927   width:  130   height:   87)
+car: 83% 	(left_x: 1569   top_y:  708   width:   65   height:   50)
+car: 73% 	(left_x: 2171   top_y:  820   width:  109   height:   82)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 71% 	(left_x: 1446   top_y:  705   width:   80   height:   53)
+car: 97% 	(left_x: 1304   top_y:  933   width:  131   height:   82)
+car: 86% 	(left_x: 1572   top_y:  710   width:   63   height:   48)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1303   top_y:  934   width:  129   height:   86)
+car: 87% 	(left_x: 1569   top_y:  711   width:   66   height:   50)
+car: 74% 	(left_x: 2166   top_y:  815   width:  103   height:   86)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 95% 	(left_x: 1301   top_y:  937   width:  132   height:   88)
+car: 92% 	(left_x: 2165   top_y:  814   width:  100   height:   82)
+car: 89% 	(left_x: 2012   top_y:  717   width:   81   height:   64)
+car: 83% 	(left_x: 1569   top_y:  711   width:   67   height:   50)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 93% 	(left_x: 1301   top_y:  940   width:  130   height:   90)
+car: 90% 	(left_x: 2159   top_y:  814   width:  101   height:   80)
+car: 77% 	(left_x: 1570   top_y:  711   width:   64   height:   50)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 1296   top_y:  945   width:  131   height:   90)
+car: 89% 	(left_x: 2156   top_y:  806   width:   99   height:   87)
+car: 87% 	(left_x: 1569   top_y:  717   width:   66   height:   50)
+car: 76% 	(left_x: 2011   top_y:  716   width:   76   height:   62)
+
+FPS:5.6 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 96% 	(left_x: 1297   top_y:  947   width:  127   height:   90)
+car: 88% 	(left_x: 1569   top_y:  717   width:   65   height:   51)
+car: 83% 	(left_x: 2153   top_y:  806   width:   99   height:   85)
+car: 81% 	(left_x: 2011   top_y:  715   width:   75   height:   62)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 1289   top_y:  953   width:  131   height:   89)
+car: 92% 	(left_x: 2150   top_y:  806   width:  100   height:   83)
+car: 90% 	(left_x: 1566   top_y:  717   width:   69   height:   52)
+car: 74% 	(left_x: 2011   top_y:  713   width:   73   height:   62)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1284   top_y:  956   width:  137   height:   89)
+car: 91% 	(left_x: 2143   top_y:  803   width:  105   height:   83)
+car: 88% 	(left_x: 1565   top_y:  717   width:   68   height:   53)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1280   top_y:  958   width:  137   height:   92)
+car: 91% 	(left_x: 1562   top_y:  717   width:   71   height:   54)
+car: 90% 	(left_x: 2142   top_y:  801   width:  100   height:   82)
+car: 83% 	(left_x: 2009   top_y:  714   width:   72   height:   60)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1279   top_y:  962   width:  138   height:   95)
+car: 92% 	(left_x: 2137   top_y:  800   width:  103   height:   82)
+car: 90% 	(left_x: 1560   top_y:  717   width:   73   height:   55)
+car: 85% 	(left_x: 2006   top_y:  713   width:   73   height:   59)
+
+FPS:5.9 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1272   top_y:  966   width:  144   height:   97)
+car: 91% 	(left_x: 1555   top_y:  718   width:   77   height:   57)
+car: 84% 	(left_x: 2136   top_y:  800   width:  101   height:   81)
+car: 79% 	(left_x: 2008   top_y:  718   width:   70   height:   54)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1271   top_y:  969   width:  141   height:   99)
+car: 93% 	(left_x: 1553   top_y:  719   width:   79   height:   56)
+car: 92% 	(left_x: 2133   top_y:  797   width:  101   height:   82)
+car: 78% 	(left_x: 2007   top_y:  716   width:   68   height:   54)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 1267   top_y:  972   width:  144   height:   97)
+car: 92% 	(left_x: 1555   top_y:  720   width:   74   height:   56)
+car: 73% 	(left_x: 2007   top_y:  718   width:   68   height:   51)
+car: 72% 	(left_x: 2134   top_y:  796   width:   97   height:   81)
+
+FPS:5.6 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1264   top_y:  978   width:  149   height:   96)
+car: 94% 	(left_x: 1555   top_y:  720   width:   74   height:   57)
+car: 85% 	(left_x: 2130   top_y:  795   width:   99   height:   80)
+car: 80% 	(left_x: 2001   top_y:  721   width:   72   height:   47)
+car: 73% 	(left_x: 1433   top_y:  721   width:   90   height:   50)
+
+FPS:5.5 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1261   top_y:  981   width:  146   height:  101)
+car: 91% 	(left_x: 1555   top_y:  722   width:   74   height:   56)
+car: 82% 	(left_x: 1440   top_y:  729   width:   82   height:   42)
+
+FPS:5.5 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1261   top_y:  986   width:  145   height:  102)
+car: 90% 	(left_x: 1555   top_y:  722   width:   76   height:   56)
+car: 83% 	(left_x: 2124   top_y:  794   width:  103   height:   77)
+
+FPS:5.4 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1256   top_y:  991   width:  146   height:  100)
+car: 89% 	(left_x: 1552   top_y:  723   width:   79   height:   58)
+
+FPS:5.4 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1246   top_y:  992   width:  158   height:  107)
+car: 92% 	(left_x: 1550   top_y:  725   width:   77   height:   55)
+car: 76% 	(left_x: 1994   top_y:  704   width:   69   height:   57)
+
+FPS:5.3 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1250   top_y:  998   width:  145   height:   99)
+car: 90% 	(left_x: 1549   top_y:  727   width:   77   height:   54)
+car: 76% 	(left_x: 2119   top_y:  812   width:   92   height:   51)
+car: 71% 	(left_x: 1994   top_y:  703   width:   69   height:   59)
+
+FPS:5.3 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1242   top_y: 1001   width:  152   height:  107)
+car: 93% 	(left_x: 1546   top_y:  727   width:   79   height:   56)
+car: 76% 	(left_x: 1994   top_y:  702   width:   68   height:   59)
+car: 75% 	(left_x: 2118   top_y:  788   width:   92   height:   74)
+
+FPS:5.3 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 71% 	(left_x: 1431   top_y:  680   width:   90   height:   92)
+car: 99% 	(left_x: 1240   top_y: 1007   width:  152   height:  104)
+car: 94% 	(left_x: 1546   top_y:  728   width:   78   height:   57)
+car: 78% 	(left_x: 2112   top_y:  782   width:   92   height:   78)
+
+FPS:5.2 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1230   top_y: 1015   width:  161   height:  102)
+car: 93% 	(left_x: 1547   top_y:  728   width:   78   height:   59)
+car: 84% 	(left_x: 1993   top_y:  700   width:   66   height:   56)
+car: 75% 	(left_x: 2106   top_y:  782   width:   92   height:   76)
+
+FPS:5.3 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1228   top_y: 1019   width:  160   height:  106)
+car: 92% 	(left_x: 1544   top_y:  728   width:   79   height:   60)
+car: 81% 	(left_x: 1990   top_y:  700   width:   67   height:   58)
+car: 77% 	(left_x: 2109   top_y:  780   width:   89   height:   75)
+
+FPS:5.3 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1222   top_y: 1021   width:  167   height:  109)
+car: 90% 	(left_x: 2103   top_y:  777   width:   94   height:   75)
+car: 85% 	(left_x: 1544   top_y:  728   width:   77   height:   62)
+car: 80% 	(left_x: 1990   top_y:  699   width:   67   height:   58)
+
+FPS:5.4 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1221   top_y: 1027   width:  164   height:  111)
+car: 83% 	(left_x: 2105   top_y:  777   width:   89   height:   74)
+car: 81% 	(left_x: 1541   top_y:  729   width:   79   height:   61)
+car: 75% 	(left_x: 1989   top_y:  699   width:   69   height:   55)
+
+FPS:5.5 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1217   top_y: 1029   width:  166   height:  112)
+car: 75% 	(left_x: 2100   top_y:  775   width:   89   height:   74)
+car: 72% 	(left_x: 1992   top_y:  700   width:   64   height:   52)
+car: 70% 	(left_x: 1542   top_y:  730   width:   77   height:   62)
+
+FPS:5.4 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1213   top_y: 1035   width:  170   height:  113)
+car: 84% 	(left_x: 1542   top_y:  732   width:   74   height:   60)
+car: 71% 	(left_x: 1981   top_y:  695   width:   69   height:   57)
+car: 71% 	(left_x: 2095   top_y:  772   width:   94   height:   77)
+
+FPS:5.6 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1211   top_y: 1038   width:  166   height:  114)
+car: 88% 	(left_x: 1540   top_y:  733   width:   73   height:   60)
+
+FPS:5.5 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1209   top_y: 1041   width:  167   height:  118)
+car: 80% 	(left_x: 2089   top_y:  771   width:   94   height:   74)
+car: 80% 	(left_x: 1977   top_y:  693   width:   73   height:   57)
+car: 75% 	(left_x: 1538   top_y:  729   width:   74   height:   64)
+
+FPS:5.5 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1200   top_y: 1049   width:  171   height:  118)
+car: 76% 	(left_x: 1539   top_y:  729   width:   74   height:   64)
+car: 75% 	(left_x: 2089   top_y:  770   width:   93   height:   74)
+
+FPS:5.6 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1197   top_y: 1055   width:  172   height:  119)
+car: 85% 	(left_x: 1535   top_y:  742   width:   76   height:   57)
+
+FPS:5.4 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1193   top_y: 1062   width:  172   height:  118)
+car: 92% 	(left_x: 2082   top_y:  769   width:   97   height:   71)
+car: 87% 	(left_x: 1533   top_y:  744   width:   75   height:   57)
+car: 85% 	(left_x: 1971   top_y:  689   width:   74   height:   57)
+
+FPS:5.6 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1190   top_y: 1070   width:  167   height:  115)
+car: 85% 	(left_x: 1533   top_y:  743   width:   73   height:   59)
+car: 81% 	(left_x: 1971   top_y:  691   width:   74   height:   54)
+
+FPS:5.5 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1187   top_y: 1074   width:  170   height:  116)
+car: 91% 	(left_x: 1532   top_y:  741   width:   72   height:   62)
+car: 79% 	(left_x: 2078   top_y:  767   width:   98   height:   69)
+car: 74% 	(left_x: 1969   top_y:  687   width:   73   height:   56)
+
+FPS:5.4 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1183   top_y: 1079   width:  167   height:  124)
+car: 84% 	(left_x: 2083   top_y:  773   width:   87   height:   59)
+car: 84% 	(left_x: 1529   top_y:  742   width:   77   height:   61)
+
+FPS:5.3 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1180   top_y: 1084   width:  179   height:  126)
+car: 75% 	(left_x: 1967   top_y:  687   width:   73   height:   55)
+car: 74% 	(left_x: 2071   top_y:  762   width:   96   height:   70)
+car: 72% 	(left_x: 1522   top_y:  756   width:   73   height:   49)
+
+FPS:5.3 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1177   top_y: 1090   width:  175   height:  127)
+car: 91% 	(left_x: 1522   top_y:  745   width:   77   height:   59)
+car: 83% 	(left_x: 2071   top_y:  763   width:   95   height:   68)
+car: 77% 	(left_x: 1967   top_y:  689   width:   72   height:   51)
+
+FPS:5.2 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1173   top_y: 1095   width:  173   height:  133)
+car: 96% 	(left_x: 1520   top_y:  747   width:   78   height:   58)
+car: 70% 	(left_x: 1964   top_y:  689   width:   73   height:   50)
+
+FPS:5.2 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1167   top_y: 1103   width:  178   height:  132)
+car: 92% 	(left_x: 1517   top_y:  748   width:   80   height:   59)
+car: 81% 	(left_x: 2068   top_y:  757   width:   92   height:   71)
+
+FPS:5.3 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1160   top_y: 1109   width:  186   height:  132)
+car: 90% 	(left_x: 1514   top_y:  748   width:   78   height:   61)
+car: 80% 	(left_x: 2066   top_y:  757   width:   90   height:   69)
+
+FPS:5.3 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1155   top_y: 1119   width:  184   height:  129)
+car: 94% 	(left_x: 1514   top_y:  750   width:   77   height:   60)
+car: 76% 	(left_x: 2061   top_y:  757   width:   92   height:   68)
+
+FPS:5.4 	 AVG_FPS:5.1
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1147   top_y: 1124   width:  189   height:  132)
+car: 97% 	(left_x: 1511   top_y:  751   width:   79   height:   60)
+car: 90% 	(left_x: 2062   top_y:  756   width:   92   height:   66)
+car: 73% 	(left_x: 1964   top_y:  690   width:   68   height:   45)
+
+FPS:5.3 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 74% 	(left_x: 1414   top_y:  635   width:  108   height:  162)
+car: 99% 	(left_x: 1141   top_y: 1131   width:  192   height:  134)
+car: 93% 	(left_x: 1511   top_y:  753   width:   75   height:   59)
+car: 90% 	(left_x: 2060   top_y:  757   width:   88   height:   64)
+car: 71% 	(left_x: 1964   top_y:  679   width:   61   height:   52)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1139   top_y: 1137   width:  192   height:  139)
+car: 95% 	(left_x: 1506   top_y:  754   width:   78   height:   61)
+car: 91% 	(left_x: 2055   top_y:  756   width:   93   height:   64)
+
+FPS:5.5 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1130   top_y: 1146   width:  198   height:  137)
+car: 88% 	(left_x: 1504   top_y:  757   width:   80   height:   60)
+car: 84% 	(left_x: 2059   top_y:  756   width:   85   height:   62)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1127   top_y: 1154   width:  200   height:  137)
+car: 94% 	(left_x: 2059   top_y:  754   width:   81   height:   62)
+car: 88% 	(left_x: 1504   top_y:  756   width:   78   height:   62)
+
+FPS:5.9 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1124   top_y: 1159   width:  198   height:  142)
+car: 95% 	(left_x: 1496   top_y:  756   width:   84   height:   63)
+car: 94% 	(left_x: 2055   top_y:  751   width:   85   height:   66)
+car: 76% 	(left_x: 1959   top_y:  679   width:   64   height:   51)
+
+FPS:5.9 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1121   top_y: 1168   width:  194   height:  145)
+car: 93% 	(left_x: 1493   top_y:  757   width:   86   height:   62)
+car: 85% 	(left_x: 2057   top_y:  750   width:   80   height:   62)
+car: 75% 	(left_x: 1957   top_y:  678   width:   60   height:   49)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 1112   top_y: 1176   width:  206   height:  143)
+car: 83% 	(left_x: 1492   top_y:  760   width:   84   height:   61)
+car: 74% 	(left_x: 2051   top_y:  748   width:   83   height:   64)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1100   top_y: 1185   width:  212   height:  144)
+car: 95% 	(left_x: 1491   top_y:  760   width:   83   height:   63)
+car: 92% 	(left_x: 2047   top_y:  747   width:   86   height:   62)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1096   top_y: 1194   width:  210   height:  147)
+car: 92% 	(left_x: 1489   top_y:  761   width:   84   height:   63)
+car: 84% 	(left_x: 2051   top_y:  749   width:   79   height:   60)
+car: 77% 	(left_x: 1952   top_y:  676   width:   65   height:   50)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1087   top_y: 1204   width:  218   height:  149)
+car: 90% 	(left_x: 1487   top_y:  761   width:   83   height:   62)
+car: 85% 	(left_x: 2049   top_y:  745   width:   80   height:   63)
+car: 83% 	(left_x: 1952   top_y:  678   width:   62   height:   46)
+
+FPS:5.9 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1083   top_y: 1213   width:  217   height:  147)
+car: 94% 	(left_x: 1485   top_y:  767   width:   81   height:   60)
+car: 93% 	(left_x: 2044   top_y:  743   width:   82   height:   63)
+car: 75% 	(left_x: 1951   top_y:  674   width:   60   height:   49)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1077   top_y: 1219   width:  217   height:  155)
+car: 95% 	(left_x: 1482   top_y:  769   width:   83   height:   60)
+car: 93% 	(left_x: 2046   top_y:  746   width:   78   height:   60)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1069   top_y: 1228   width:  229   height:  153)
+car: 95% 	(left_x: 1478   top_y:  769   width:   84   height:   60)
+car: 87% 	(left_x: 2044   top_y:  745   width:   79   height:   60)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1061   top_y: 1239   width:  227   height:  160)
+car: 96% 	(left_x: 1475   top_y:  769   width:   84   height:   62)
+car: 88% 	(left_x: 1948   top_y:  669   width:   62   height:   52)
+car: 82% 	(left_x: 2038   top_y:  743   width:   84   height:   60)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1056   top_y: 1247   width:  227   height:  166)
+car: 93% 	(left_x: 1472   top_y:  771   width:   91   height:   61)
+car: 85% 	(left_x: 2039   top_y:  744   width:   76   height:   58)
+car: 81% 	(left_x: 1948   top_y:  673   width:   59   height:   48)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1051   top_y: 1259   width:  229   height:  160)
+car: 83% 	(left_x: 1947   top_y:  672   width:   58   height:   48)
+car: 80% 	(left_x: 1470   top_y:  772   width:   92   height:   60)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1039   top_y: 1266   width:  233   height:  166)
+car: 92% 	(left_x: 1472   top_y:  779   width:   83   height:   59)
+car: 86% 	(left_x: 1946   top_y:  666   width:   57   height:   54)
+car: 79% 	(left_x: 2036   top_y:  741   width:   76   height:   59)
+
+FPS:5.9 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1031   top_y: 1278   width:  239   height:  165)
+car: 95% 	(left_x: 1472   top_y:  783   width:   79   height:   55)
+car: 78% 	(left_x: 1945   top_y:  667   width:   62   height:   52)
+
+FPS:5.7 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1024   top_y: 1289   width:  244   height:  173)
+car: 93% 	(left_x: 1471   top_y:  787   width:   78   height:   52)
+car: 80% 	(left_x: 1945   top_y:  668   width:   61   height:   50)
+
+FPS:5.6 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x: 1015   top_y: 1300   width:  246   height:  177)
+car: 97% 	(left_x: 1469   top_y:  781   width:   79   height:   61)
+car: 80% 	(left_x: 1945   top_y:  672   width:   66   height:   42)
+
+FPS:5.6 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 84% 	(left_x: 1399   top_y:  643   width:  117   height:  171)
+car: 100% 	(left_x: 1006   top_y: 1313   width:  252   height:  178)
+car: 94% 	(left_x: 1462   top_y:  783   width:   83   height:   60)
+
+FPS:5.6 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 70% 	(left_x: 1403   top_y:  652   width:  108   height:   89)
+car: 100% 	(left_x:  991   top_y: 1322   width:  264   height:  185)
+car: 95% 	(left_x: 1460   top_y:  786   width:   82   height:   57)
+
+FPS:5.5 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  982   top_y: 1338   width:  271   height:  184)
+car: 97% 	(left_x: 1454   top_y:  785   width:   88   height:   59)
+
+FPS:5.4 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  976   top_y: 1350   width:  260   height:  180)
+car: 94% 	(left_x: 1451   top_y:  786   width:   88   height:   60)
+
+FPS:5.5 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  959   top_y: 1363   width:  273   height:  188)
+car: 90% 	(left_x: 1446   top_y:  785   width:   92   height:   63)
+
+FPS:5.5 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x:  946   top_y: 1375   width:  276   height:  194)
+car: 88% 	(left_x: 1443   top_y:  783   width:   95   height:   67)
+car: 76% 	(left_x: 2016   top_y:  730   width:   78   height:   55)
+
+FPS:5.5 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  940   top_y: 1389   width:  272   height:  196)
+car: 85% 	(left_x: 1445   top_y:  786   width:   91   height:   64)
+
+FPS:5.3 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x:  929   top_y: 1407   width:  276   height:  194)
+car: 84% 	(left_x: 1441   top_y:  784   width:   91   height:   69)
+
+FPS:5.5 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  918   top_y: 1419   width:  280   height:  201)
+car: 80% 	(left_x: 1436   top_y:  785   width:   94   height:   69)
+
+FPS:5.4 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  904   top_y: 1436   width:  284   height:  208)
+car: 85% 	(left_x: 1443   top_y:  798   width:   84   height:   61)
+
+FPS:5.5 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  885   top_y: 1454   width:  298   height:  207)
+car: 81% 	(left_x: 1435   top_y:  796   width:   91   height:   65)
+
+FPS:5.5 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 75% 	(left_x: 2007   top_y:  713   width:   75   height:   65)
+car: 100% 	(left_x:  871   top_y: 1470   width:  302   height:  209)
+car: 71% 	(left_x: 1435   top_y:  799   width:   89   height:   63)
+
+FPS:5.4 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  856   top_y: 1482   width:  293   height:  227)
+car: 89% 	(left_x: 1433   top_y:  797   width:   93   height:   68)
+car: 79% 	(left_x: 2011   top_y:  721   width:   69   height:   57)
+
+FPS:5.5 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x:  837   top_y: 1506   width:  313   height:  221)
+car: 88% 	(left_x: 1427   top_y:  798   width:   98   height:   69)
+car: 80% 	(left_x: 2007   top_y:  722   width:   72   height:   54)
+
+FPS:5.5 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x:  825   top_y: 1518   width:  312   height:  233)
+car: 79% 	(left_x: 1427   top_y:  799   width:   95   height:   71)
+
+FPS:5.5 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x:  808   top_y: 1542   width:  323   height:  233)
+car: 90% 	(left_x: 1426   top_y:  808   width:   95   height:   63)
+
+FPS:5.5 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  788   top_y: 1564   width:  330   height:  237)
+car: 91% 	(left_x: 1423   top_y:  805   width:   97   height:   70)
+car: 80% 	(left_x: 2005   top_y:  720   width:   70   height:   54)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  771   top_y: 1582   width:  334   height:  239)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  740   top_y: 1599   width:  358   height:  261)
+
+FPS:6.1 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  732   top_y: 1628   width:  345   height:  251)
+
+FPS:5.9 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  710   top_y: 1649   width:  357   height:  257)
+car: 71% 	(left_x: 1924   top_y:  646   width:   54   height:   49)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x:  683   top_y: 1678   width:  372   height:  256)
+car: 79% 	(left_x: 1998   top_y:  718   width:   63   height:   52)
+car: 76% 	(left_x: 1411   top_y:  838   width:   88   height:   45)
+car: 75% 	(left_x: 1924   top_y:  645   width:   52   height:   49)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  666   top_y: 1696   width:  371   height:  271)
+car: 73% 	(left_x: 1923   top_y:  647   width:   50   height:   45)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 100% 	(left_x:  638   top_y: 1725   width:  382   height:  273)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  616   top_y: 1755   width:  394   height:  276)
+car: 77% 	(left_x: 1923   top_y:  644   width:   51   height:   48)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  583   top_y: 1783   width:  400   height:  282)
+car: 74% 	(left_x: 1920   top_y:  644   width:   54   height:   49)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  547   top_y: 1810   width:  417   height:  296)
+car: 85% 	(left_x: 1399   top_y:  841   width:   98   height:   49)
+car: 80% 	(left_x: 1918   top_y:  644   width:   55   height:   47)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x:  505   top_y: 1838   width:  449   height:  317)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x:  489   top_y: 1869   width:  444   height:  291)
+car: 73% 	(left_x: 1919   top_y:  646   width:   51   height:   43)
+
+FPS:5.9 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  454   top_y: 1909   width:  459   height:  247)
+car: 81% 	(left_x: 1921   top_y:  644   width:   49   height:   46)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  432   top_y: 1942   width:  463   height:  219)
+
+FPS:5.6 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x:  382   top_y: 1976   width:  496   height:  183)
+
+FPS:5.6 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 90% 	(left_x:  371   top_y: 2016   width:  489   height:  145)
+car: 78% 	(left_x: 1916   top_y:  646   width:   52   height:   40)
+
+FPS:5.5 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 86% 	(left_x:  341   top_y: 2058   width:  494   height:  103)
+car: 84% 	(left_x: 1917   top_y:  645   width:   52   height:   41)
+
+FPS:5.6 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 71% 	(left_x: 1373   top_y:  656   width:  126   height:  240)
+car: 81% 	(left_x: 1914   top_y:  642   width:   48   height:   43)
+
+FPS:5.5 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 78% 	(left_x: 1914   top_y:  642   width:   48   height:   42)
+
+FPS:5.4 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 79% 	(left_x: 1974   top_y:  698   width:   68   height:   52)
+car: 74% 	(left_x: 1913   top_y:  642   width:   52   height:   42)
+
+FPS:5.5 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 72% 	(left_x: 1912   top_y:  641   width:   51   height:   45)
+car: 71% 	(left_x: 1972   top_y:  698   width:   68   height:   52)
+
+FPS:5.4 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 75% 	(left_x: 1913   top_y:  642   width:   47   height:   43)
+
+FPS:5.6 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 89% 	(left_x: 1370   top_y:  848   width:  103   height:   78)
+car: 80% 	(left_x: 1915   top_y:  643   width:   46   height:   41)
+
+FPS:5.6 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 77% 	(left_x: 1915   top_y:  642   width:   48   height:   38)
+car: 74% 	(left_x: 1968   top_y:  697   width:   70   height:   50)
+
+FPS:5.5 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 71% 	(left_x: 1366   top_y:  663   width:  129   height:  214)
+car: 72% 	(left_x: 1913   top_y:  639   width:   44   height:   40)
+
+FPS:5.4 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 90% 	(left_x: 1367   top_y:  664   width:  131   height:  207)
+car: 90% 	(left_x: 1356   top_y:  862   width:  110   height:   70)
+
+FPS:5.4 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 81% 	(left_x: 1366   top_y:  663   width:  129   height:  206)
+car: 80% 	(left_x: 1352   top_y:  856   width:  114   height:   79)
+
+FPS:5.4 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x: 1364   top_y:  666   width:  134   height:  198)
+
+FPS:5.4 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 85% 	(left_x: 1362   top_y:  668   width:  136   height:  200)
+car: 76% 	(left_x: 1348   top_y:  858   width:  111   height:   81)
+car: 70% 	(left_x: 1965   top_y:  692   width:   67   height:   48)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+
+FPS:5.8 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 88% 	(left_x: 1359   top_y:  670   width:  137   height:  201)
+car: 71% 	(left_x: 1911   top_y:  643   width:   43   height:   32)
+
+FPS:5.9 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 74% 	(left_x: 1910   top_y:  643   width:   44   height:   31)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 82% 	(left_x: 1357   top_y:  670   width:  137   height:  202)
+car: 82% 	(left_x: 1337   top_y:  864   width:  109   height:   81)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 82% 	(left_x: 1354   top_y:  673   width:  142   height:  202)
+car: 82% 	(left_x: 1335   top_y:  863   width:  110   height:   85)
+car: 72% 	(left_x: 1958   top_y:  692   width:   73   height:   43)
+car: 70% 	(left_x: 1906   top_y:  630   width:   44   height:   34)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 87% 	(left_x: 1333   top_y:  889   width:  113   height:   63)
+car: 72% 	(left_x: 1960   top_y:  692   width:   69   height:   45)
+
+FPS:5.8 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 92% 	(left_x: 1351   top_y:  674   width:  148   height:  204)
+car: 93% 	(left_x: 1328   top_y:  873   width:  115   height:   83)
+
+FPS:5.8 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 94% 	(left_x: 1351   top_y:  675   width:  148   height:  204)
+car: 86% 	(left_x: 1324   top_y:  875   width:  118   height:   83)
+car: 71% 	(left_x: 1960   top_y:  693   width:   62   height:   40)
+
+FPS:5.8 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 88% 	(left_x: 1349   top_y:  674   width:  147   height:  206)
+car: 88% 	(left_x: 1323   top_y:  876   width:  117   height:   85)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x: 1348   top_y:  674   width:  145   height:  205)
+car: 97% 	(left_x: 1318   top_y:  878   width:  121   height:   87)
+car: 76% 	(left_x: 1960   top_y:  681   width:   61   height:   46)
+
+FPS:5.8 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 84% 	(left_x: 1350   top_y:  672   width:  140   height:  208)
+car: 98% 	(left_x: 1319   top_y:  878   width:  119   height:   89)
+car: 77% 	(left_x: 1904   top_y:  626   width:   45   height:   34)
+car: 77% 	(left_x: 1958   top_y:  682   width:   65   height:   46)
+
+FPS:5.8 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 90% 	(left_x: 1349   top_y:  674   width:  142   height:  210)
+car: 99% 	(left_x: 1317   top_y:  879   width:  120   height:   90)
+car: 72% 	(left_x: 1906   top_y:  624   width:   41   height:   38)
+
+FPS:6.0 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 86% 	(left_x: 1348   top_y:  675   width:  144   height:  212)
+car: 98% 	(left_x: 1316   top_y:  883   width:  116   height:   90)
+car: 75% 	(left_x: 1906   top_y:  627   width:   40   height:   35)
+car: 73% 	(left_x: 1956   top_y:  680   width:   54   height:   42)
+
+FPS:6.4 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 88% 	(left_x: 1347   top_y:  671   width:  145   height:  219)
+car: 98% 	(left_x: 1315   top_y:  881   width:  113   height:   94)
+car: 77% 	(left_x: 1953   top_y:  680   width:   54   height:   42)
+
+FPS:6.3 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 94% 	(left_x: 1312   top_y:  883   width:  112   height:   97)
+car: 80% 	(left_x: 1953   top_y:  678   width:   54   height:   46)
+
+FPS:6.3 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 88% 	(left_x: 1302   top_y:  895   width:  116   height:   91)
+car: 81% 	(left_x: 1955   top_y:  682   width:   56   height:   40)
+
+FPS:6.1 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 96% 	(left_x: 1300   top_y:  901   width:  119   height:   86)
+car: 80% 	(left_x: 1953   top_y:  679   width:   59   height:   43)
+
+FPS:6.1 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 72% 	(left_x: 1335   top_y:  673   width:  148   height:  224)
+car: 93% 	(left_x: 1298   top_y:  902   width:  119   height:   86)
+car: 84% 	(left_x: 1950   top_y:  679   width:   59   height:   41)
+
+FPS:6.1 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 93% 	(left_x: 1291   top_y:  906   width:  127   height:   88)
+car: 71% 	(left_x: 1952   top_y:  686   width:   52   height:   33)
+
+FPS:6.1 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 96% 	(left_x: 1291   top_y:  904   width:  124   height:   90)
+car: 75% 	(left_x: 1953   top_y:  683   width:   53   height:   36)
+
+FPS:6.1 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+car: 92% 	(left_x: 1286   top_y:  908   width:  124   height:   90)
+car: 79% 	(left_x: 1951   top_y:  681   width:   55   height:   37)
+
+FPS:6.0 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 74% 	(left_x: 1334   top_y:  687   width:  149   height:  221)
+car: 86% 	(left_x: 1948   top_y:  674   width:   57   height:   44)
+car: 81% 	(left_x: 1285   top_y:  909   width:  124   height:   92)
+
+FPS:6.0 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 89% 	(left_x: 1330   top_y:  687   width:  154   height:  222)
+car: 96% 	(left_x: 1277   top_y:  912   width:  131   height:   95)
+car: 88% 	(left_x: 1948   top_y:  674   width:   56   height:   44)
+
+FPS:5.9 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 85% 	(left_x: 1332   top_y:  687   width:  149   height:  223)
+car: 86% 	(left_x: 1276   top_y:  913   width:  126   height:   98)
+car: 86% 	(left_x: 1949   top_y:  676   width:   56   height:   42)
+
+FPS:6.0 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+car: 92% 	(left_x: 1272   top_y:  916   width:  133   height:   96)
+car: 84% 	(left_x: 1950   top_y:  675   width:   54   height:   43)
+
+FPS:5.9 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x: 1329   top_y:  690   width:  147   height:  222)
+car: 91% 	(left_x: 1266   top_y:  920   width:  137   height:   97)
+
+FPS:6.0 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 90% 	(left_x: 1326   top_y:  690   width:  145   height:  224)
+car: 96% 	(left_x: 1265   top_y:  921   width:  135   height:  100)
+
+FPS:5.8 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 83% 	(left_x: 1324   top_y:  692   width:  147   height:  222)
+car: 98% 	(left_x: 1265   top_y:  925   width:  133   height:   99)
+
+FPS:6.0 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 87% 	(left_x: 1323   top_y:  687   width:  151   height:  227)
+car: 97% 	(left_x: 1261   top_y:  927   width:  132   height:  103)
+
+FPS:5.9 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 77% 	(left_x: 1317   top_y:  691   width:  152   height:  159)
+car: 99% 	(left_x: 1258   top_y:  930   width:  134   height:  102)
+
+FPS:5.8 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 87% 	(left_x: 1319   top_y:  688   width:  155   height:  237)
+car: 94% 	(left_x: 1255   top_y:  934   width:  135   height:  103)
+
+FPS:5.7 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 86% 	(left_x: 1316   top_y:  693   width:  157   height:  216)
+car: 96% 	(left_x: 1248   top_y:  933   width:  139   height:  117)
+
+FPS:5.7 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 82% 	(left_x: 1313   top_y:  693   width:  153   height:  224)
+car: 93% 	(left_x: 1250   top_y:  937   width:  136   height:  104)
+
+FPS:5.6 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 88% 	(left_x: 1307   top_y:  696   width:  167   height:  228)
+car: 95% 	(left_x: 1244   top_y:  937   width:  144   height:  119)
+
+FPS:5.7 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 1238   top_y:  943   width:  140   height:  113)
+
+FPS:5.6 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x: 1235   top_y:  955   width:  146   height:  103)
+
+FPS:5.7 	 AVG_FPS:5.9
+
+ cvWriteFrame 
+Objects:
+
+truck: 89% 	(left_x: 1299   top_y:  693   width:  169   height:  238)
+car: 98% 	(left_x: 1231   top_y:  956   width:  145   height:  108)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 82% 	(left_x: 1300   top_y:  699   width:  168   height:  228)
+car: 87% 	(left_x: 1228   top_y:  956   width:  141   height:  114)
+car: 74% 	(left_x: 1932   top_y:  668   width:   52   height:   35)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 79% 	(left_x: 1301   top_y:  701   width:  171   height:  233)
+car: 99% 	(left_x: 1224   top_y:  962   width:  142   height:  110)
+car: 77% 	(left_x: 1932   top_y:  667   width:   54   height:   36)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 83% 	(left_x: 1306   top_y:  700   width:  158   height:  235)
+car: 89% 	(left_x: 1219   top_y:  961   width:  144   height:  117)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 89% 	(left_x: 1296   top_y:  702   width:  171   height:  234)
+car: 99% 	(left_x: 1211   top_y:  969   width:  150   height:  116)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 92% 	(left_x: 1302   top_y:  703   width:  159   height:  235)
+car: 96% 	(left_x: 1210   top_y:  975   width:  152   height:  113)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 92% 	(left_x: 1298   top_y:  704   width:  164   height:  235)
+car: 97% 	(left_x: 1208   top_y:  976   width:  147   height:  120)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 94% 	(left_x: 1295   top_y:  703   width:  173   height:  238)
+car: 97% 	(left_x: 1204   top_y:  981   width:  148   height:  117)
+
+FPS:5.5 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x: 1295   top_y:  705   width:  170   height:  239)
+car: 98% 	(left_x: 1194   top_y:  984   width:  156   height:  120)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1293   top_y:  704   width:  166   height:  244)
+car: 99% 	(left_x: 1192   top_y:  985   width:  155   height:  123)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1294   top_y:  704   width:  155   height:  245)
+car: 99% 	(left_x: 1188   top_y:  990   width:  154   height:  125)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1285   top_y:  705   width:  175   height:  247)
+car: 99% 	(left_x: 1185   top_y:  991   width:  155   height:  127)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1287   top_y:  707   width:  177   height:  247)
+car: 99% 	(left_x: 1182   top_y: 1000   width:  159   height:  125)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 93% 	(left_x: 1285   top_y:  707   width:  176   height:  248)
+car: 98% 	(left_x: 1177   top_y: 1005   width:  161   height:  124)
+
+FPS:6.0 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 90% 	(left_x: 1283   top_y:  709   width:  171   height:  251)
+car: 99% 	(left_x: 1173   top_y: 1008   width:  160   height:  124)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 89% 	(left_x: 1283   top_y:  709   width:  166   height:  252)
+car: 99% 	(left_x: 1168   top_y: 1011   width:  163   height:  127)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1278   top_y:  711   width:  169   height:  254)
+car: 98% 	(left_x: 1163   top_y: 1019   width:  163   height:  128)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1274   top_y:  715   width:  177   height:  252)
+car: 99% 	(left_x: 1159   top_y: 1023   width:  165   height:  130)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 76% 	(left_x: 1277   top_y:  713   width:  172   height:  254)
+car: 98% 	(left_x: 1158   top_y: 1026   width:  161   height:  131)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1269   top_y:  717   width:  175   height:  250)
+car: 99% 	(left_x: 1149   top_y: 1034   width:  172   height:  128)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x: 1268   top_y:  717   width:  180   height:  250)
+car: 97% 	(left_x: 1145   top_y: 1038   width:  171   height:  134)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1266   top_y:  719   width:  174   height:  254)
+car: 97% 	(left_x: 1139   top_y: 1041   width:  173   height:  134)
+car: 74% 	(left_x: 1926   top_y:  642   width:   42   height:   48)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x: 1263   top_y:  718   width:  180   height:  257)
+car: 92% 	(left_x: 1136   top_y: 1042   width:  173   height:  138)
+car: 71% 	(left_x: 1927   top_y:  644   width:   40   height:   44)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 93% 	(left_x: 1262   top_y:  721   width:  186   height:  252)
+car: 97% 	(left_x: 1136   top_y: 1049   width:  166   height:  138)
+car: 72% 	(left_x: 1924   top_y:  644   width:   43   height:   43)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 94% 	(left_x: 1259   top_y:  721   width:  184   height:  253)
+car: 93% 	(left_x: 1131   top_y: 1057   width:  170   height:  137)
+car: 80% 	(left_x: 1920   top_y:  644   width:   49   height:   43)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1254   top_y:  721   width:  184   height:  255)
+car: 97% 	(left_x: 1123   top_y: 1059   width:  173   height:  142)
+car: 74% 	(left_x: 1923   top_y:  647   width:   46   height:   39)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1253   top_y:  722   width:  188   height:  254)
+car: 91% 	(left_x: 1116   top_y: 1063   width:  177   height:  142)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x: 1250   top_y:  723   width:  192   height:  266)
+car: 96% 	(left_x: 1110   top_y: 1072   width:  175   height:  141)
+
+FPS:6.1 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x: 1246   top_y:  723   width:  193   height:  269)
+car: 99% 	(left_x: 1105   top_y: 1075   width:  178   height:  144)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 81% 	(left_x: 1241   top_y:  729   width:  194   height:  269)
+car: 99% 	(left_x: 1095   top_y: 1082   width:  189   height:  145)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 74% 	(left_x: 1243   top_y:  725   width:  197   height:  271)
+car: 99% 	(left_x: 1088   top_y: 1090   width:  191   height:  144)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1235   top_y:  724   width:  202   height:  274)
+car: 99% 	(left_x: 1081   top_y: 1095   width:  197   height:  144)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1078   top_y: 1098   width:  192   height:  148)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 89% 	(left_x: 1230   top_y:  729   width:  209   height:  277)
+car: 99% 	(left_x: 1076   top_y: 1106   width:  186   height:  148)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 91% 	(left_x: 1227   top_y:  731   width:  214   height:  276)
+car: 99% 	(left_x: 1066   top_y: 1112   width:  194   height:  151)
+car: 75% 	(left_x: 1909   top_y:  636   width:   51   height:   44)
+
+FPS:6.2 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+bus: 74% 	(left_x: 1224   top_y:  733   width:  214   height:  273)
+car: 97% 	(left_x: 1058   top_y: 1121   width:  204   height:  153)
+
+FPS:6.2 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+bus: 76% 	(left_x: 1225   top_y:  731   width:  213   height:  282)
+car: 99% 	(left_x: 1054   top_y: 1128   width:  198   height:  154)
+
+FPS:6.2 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 85% 	(left_x: 1226   top_y:  734   width:  198   height:  273)
+car: 99% 	(left_x: 1048   top_y: 1132   width:  198   height:  160)
+
+FPS:6.2 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 93% 	(left_x: 1222   top_y:  734   width:  208   height:  280)
+car: 99% 	(left_x: 1035   top_y: 1143   width:  205   height:  159)
+
+FPS:6.2 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+bus: 85% 	(left_x: 1219   top_y:  734   width:  218   height:  281)
+car: 100% 	(left_x: 1034   top_y: 1149   width:  201   height:  157)
+
+FPS:6.1 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+bus: 81% 	(left_x: 1217   top_y:  737   width:  211   height:  281)
+car: 99% 	(left_x: 1025   top_y: 1152   width:  207   height:  165)
+
+FPS:6.0 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 92% 	(left_x: 1215   top_y:  735   width:  214   height:  289)
+car: 99% 	(left_x: 1018   top_y: 1161   width:  211   height:  164)
+
+FPS:6.0 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 75% 	(left_x: 1212   top_y:  735   width:  214   height:  284)
+car: 98% 	(left_x: 1013   top_y: 1171   width:  211   height:  164)
+
+FPS:5.8 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x: 1010   top_y: 1178   width:  210   height:  169)
+
+FPS:5.9 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 72% 	(left_x: 1209   top_y:  740   width:  197   height:  293)
+car: 99% 	(left_x:  991   top_y: 1190   width:  224   height:  166)
+
+FPS:5.8 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  988   top_y: 1197   width:  220   height:  167)
+
+FPS:5.9 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 73% 	(left_x: 1203   top_y:  744   width:  205   height:  297)
+car: 99% 	(left_x:  979   top_y: 1202   width:  218   height:  173)
+
+FPS:5.8 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 79% 	(left_x: 1203   top_y:  742   width:  207   height:  305)
+car: 98% 	(left_x:  969   top_y: 1206   width:  223   height:  182)
+
+FPS:5.9 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1199   top_y:  751   width:  206   height:  293)
+car: 97% 	(left_x:  966   top_y: 1217   width:  224   height:  175)
+
+FPS:5.8 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1200   top_y:  748   width:  205   height:  306)
+car: 99% 	(left_x:  946   top_y: 1223   width:  237   height:  188)
+
+FPS:5.7 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1197   top_y:  747   width:  204   height:  306)
+car: 99% 	(left_x:  934   top_y: 1239   width:  241   height:  182)
+
+FPS:5.6 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1191   top_y:  747   width:  210   height:  311)
+car: 99% 	(left_x:  930   top_y: 1247   width:  238   height:  185)
+
+FPS:5.5 	 AVG_FPS:6.0
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1185   top_y:  751   width:  212   height:  308)
+car: 99% 	(left_x:  925   top_y: 1254   width:  236   height:  192)
+
+FPS:5.5 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 94% 	(left_x: 1187   top_y:  760   width:  212   height:  311)
+car: 97% 	(left_x:  912   top_y: 1261   width:  244   height:  194)
+
+FPS:5.4 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 94% 	(left_x: 1181   top_y:  760   width:  214   height:  315)
+car: 93% 	(left_x:  908   top_y: 1269   width:  240   height:  207)
+
+FPS:5.3 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1181   top_y:  768   width:  218   height:  306)
+car: 99% 	(left_x:  889   top_y: 1291   width:  253   height:  193)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1173   top_y:  760   width:  222   height:  313)
+car: 99% 	(left_x:  869   top_y: 1297   width:  267   height:  205)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1170   top_y:  760   width:  228   height:  313)
+car: 100% 	(left_x:  867   top_y: 1308   width:  257   height:  201)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1170   top_y:  760   width:  220   height:  319)
+car: 99% 	(left_x:  859   top_y: 1315   width:  258   height:  206)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1163   top_y:  762   width:  221   height:  319)
+car: 99% 	(left_x:  848   top_y: 1326   width:  263   height:  212)
+
+FPS:5.5 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1162   top_y:  764   width:  225   height:  321)
+car: 99% 	(left_x:  820   top_y: 1343   width:  282   height:  216)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1159   top_y:  765   width:  227   height:  322)
+car: 99% 	(left_x:  820   top_y: 1353   width:  273   height:  219)
+
+FPS:6.0 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1157   top_y:  767   width:  226   height:  326)
+car: 99% 	(left_x:  804   top_y: 1366   width:  280   height:  218)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1152   top_y:  769   width:  226   height:  331)
+car: 100% 	(left_x:  795   top_y: 1378   width:  281   height:  226)
+
+FPS:6.3 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 93% 	(left_x: 1151   top_y:  770   width:  228   height:  332)
+car: 99% 	(left_x:  774   top_y: 1393   width:  294   height:  229)
+
+FPS:6.1 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1147   top_y:  769   width:  230   height:  337)
+car: 99% 	(left_x:  769   top_y: 1405   width:  289   height:  235)
+car: 71% 	(left_x: 1370   top_y:  825   width:   55   height:   79)
+
+FPS:6.0 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1143   top_y:  771   width:  237   height:  342)
+car: 98% 	(left_x:  754   top_y: 1421   width:  291   height:  238)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1137   top_y:  773   width:  236   height:  341)
+car: 99% 	(left_x:  729   top_y: 1437   width:  305   height:  243)
+car: 70% 	(left_x: 1367   top_y:  829   width:   55   height:   78)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1131   top_y:  774   width:  248   height:  343)
+car: 100% 	(left_x:  722   top_y: 1450   width:  302   height:  247)
+car: 80% 	(left_x: 1365   top_y:  829   width:   55   height:   82)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1129   top_y:  774   width:  245   height:  347)
+car: 99% 	(left_x:  701   top_y: 1462   width:  313   height:  251)
+car: 89% 	(left_x: 1361   top_y:  831   width:   58   height:   84)
+
+FPS:6.0 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1125   top_y:  778   width:  245   height:  349)
+car: 99% 	(left_x:  685   top_y: 1482   width:  320   height:  257)
+car: 90% 	(left_x: 1359   top_y:  832   width:   59   height:   85)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1122   top_y:  779   width:  247   height:  347)
+car: 100% 	(left_x:  662   top_y: 1497   width:  331   height:  262)
+car: 87% 	(left_x: 1358   top_y:  834   width:   59   height:   83)
+
+FPS:5.9 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1117   top_y:  781   width:  247   height:  350)
+car: 99% 	(left_x:  650   top_y: 1517   width:  330   height:  262)
+car: 84% 	(left_x: 1355   top_y:  836   width:   62   height:   81)
+
+FPS:5.9 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1110   top_y:  787   width:  254   height:  346)
+car: 99% 	(left_x:  619   top_y: 1539   width:  354   height:  264)
+car: 90% 	(left_x: 1354   top_y:  837   width:   61   height:   82)
+
+FPS:6.1 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1109   top_y:  788   width:  252   height:  349)
+car: 100% 	(left_x:  619   top_y: 1549   width:  332   height:  282)
+
+FPS:6.1 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1106   top_y:  789   width:  253   height:  355)
+car: 99% 	(left_x:  592   top_y: 1567   width:  351   height:  292)
+car: 84% 	(left_x: 1350   top_y:  842   width:   65   height:   82)
+
+FPS:6.0 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1106   top_y:  785   width:  249   height:  365)
+car: 99% 	(left_x:  568   top_y: 1588   width:  360   height:  290)
+car: 81% 	(left_x: 1347   top_y:  842   width:   69   height:   84)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1106   top_y:  786   width:  246   height:  374)
+car: 100% 	(left_x:  547   top_y: 1599   width:  361   height:  315)
+car: 89% 	(left_x: 1347   top_y:  845   width:   67   height:   82)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x: 1103   top_y:  786   width:  249   height:  381)
+car: 99% 	(left_x:  515   top_y: 1625   width:  386   height:  312)
+car: 78% 	(left_x: 1341   top_y:  846   width:   74   height:   84)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x: 1098   top_y:  787   width:  251   height:  384)
+car: 99% 	(left_x:  511   top_y: 1649   width:  364   height:  317)
+car: 92% 	(left_x: 3697   top_y: 1724   width:  144   height:  336)
+car: 83% 	(left_x: 1337   top_y:  848   width:   74   height:   84)
+
+FPS:5.7 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1095   top_y:  787   width:  251   height:  389)
+car: 99% 	(left_x:  476   top_y: 1669   width:  392   height:  333)
+car: 99% 	(left_x: 3649   top_y: 1705   width:  194   height:  293)
+car: 92% 	(left_x: 1336   top_y:  852   width:   74   height:   82)
+
+FPS:5.6 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1094   top_y:  790   width:  250   height:  389)
+car: 99% 	(left_x: 3597   top_y: 1675   width:  241   height:  277)
+car: 99% 	(left_x:  453   top_y: 1697   width:  402   height:  328)
+car: 80% 	(left_x: 1335   top_y:  853   width:   73   height:   83)
+
+FPS:5.7 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1073   top_y:  789   width:  268   height:  401)
+car: 100% 	(left_x: 3551   top_y: 1645   width:  287   height:  261)
+car: 100% 	(left_x:  427   top_y: 1714   width:  400   height:  352)
+car: 91% 	(left_x: 1332   top_y:  857   width:   75   height:   82)
+
+FPS:5.7 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1069   top_y:  792   width:  272   height:  401)
+car: 100% 	(left_x: 3509   top_y: 1622   width:  332   height:  261)
+car: 98% 	(left_x:  399   top_y: 1739   width:  423   height:  352)
+car: 87% 	(left_x: 1335   top_y:  857   width:   70   height:   84)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x: 1072   top_y:  794   width:  269   height:  400)
+car: 100% 	(left_x: 3464   top_y: 1595   width:  378   height:  254)
+car: 99% 	(left_x:  362   top_y: 1776   width:  440   height:  347)
+car: 86% 	(left_x: 1332   top_y:  859   width:   73   height:   82)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x: 1065   top_y:  796   width:  273   height:  400)
+car: 100% 	(left_x: 3422   top_y: 1568   width:  380   height:  252)
+car: 99% 	(left_x:  332   top_y: 1799   width:  448   height:  356)
+car: 78% 	(left_x: 1329   top_y:  859   width:   76   height:   85)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x: 1063   top_y:  796   width:  275   height:  408)
+car: 100% 	(left_x: 3379   top_y: 1542   width:  385   height:  246)
+car: 92% 	(left_x:  298   top_y: 1834   width:  465   height:  325)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x: 1062   top_y:  799   width:  276   height:  406)
+car: 100% 	(left_x: 3346   top_y: 1516   width:  362   height:  251)
+car: 99% 	(left_x:  277   top_y: 1856   width:  468   height:  307)
+
+FPS:6.3 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x: 1055   top_y:  799   width:  281   height:  415)
+car: 100% 	(left_x: 3307   top_y: 1495   width:  354   height:  242)
+car: 99% 	(left_x:  247   top_y: 1898   width:  469   height:  260)
+car: 70% 	(left_x: 1323   top_y:  861   width:   76   height:   89)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x: 1055   top_y:  797   width:  271   height:  424)
+car: 100% 	(left_x: 3277   top_y: 1469   width:  335   height:  236)
+car: 99% 	(left_x:  177   top_y: 1928   width:  526   height:  229)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1046   top_y:  795   width:  281   height:  430)
+car: 100% 	(left_x: 3243   top_y: 1455   width:  328   height:  226)
+car: 97% 	(left_x:  164   top_y: 1960   width:  505   height:  200)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1042   top_y:  799   width:  280   height:  433)
+car: 100% 	(left_x: 3210   top_y: 1436   width:  331   height:  222)
+car: 84% 	(left_x:   60   top_y: 2000   width:  607   height:  164)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1041   top_y:  798   width:  282   height:  438)
+car: 100% 	(left_x: 3185   top_y: 1417   width:  313   height:  219)
+car: 82% 	(left_x:  107   top_y: 2037   width:  502   height:  122)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1036   top_y:  813   width:  290   height:  432)
+car: 100% 	(left_x: 3154   top_y: 1395   width:  305   height:  212)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 95% 	(left_x: 1033   top_y:  817   width:  287   height:  434)
+car: 100% 	(left_x: 3124   top_y: 1382   width:  304   height:  208)
+car: 71% 	(left_x: 1308   top_y:  874   width:   82   height:   92)
+
+FPS:5.6 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x: 1028   top_y:  824   width:  288   height:  429)
+car: 100% 	(left_x: 3095   top_y: 1368   width:  300   height:  200)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1028   top_y:  825   width:  287   height:  431)
+car: 100% 	(left_x: 3070   top_y: 1349   width:  283   height:  198)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x: 1016   top_y:  829   width:  298   height:  429)
+car: 100% 	(left_x: 3042   top_y: 1332   width:  287   height:  198)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x: 1014   top_y:  836   width:  297   height:  425)
+car: 100% 	(left_x: 3017   top_y: 1318   width:  285   height:  191)
+car: 78% 	(left_x: 1302   top_y:  885   width:   81   height:   91)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1011   top_y:  832   width:  295   height:  443)
+car: 99% 	(left_x: 3002   top_y: 1307   width:  268   height:  184)
+car: 92% 	(left_x: 1298   top_y:  889   width:   87   height:   90)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1002   top_y:  834   width:  305   height:  442)
+car: 100% 	(left_x: 2968   top_y: 1290   width:  276   height:  188)
+car: 82% 	(left_x: 1294   top_y:  888   width:   89   height:   94)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x: 1001   top_y:  832   width:  305   height:  448)
+car: 100% 	(left_x: 2946   top_y: 1277   width:  276   height:  183)
+car: 77% 	(left_x: 1290   top_y:  893   width:   94   height:   94)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  996   top_y:  838   width:  313   height:  448)
+car: 100% 	(left_x: 2929   top_y: 1263   width:  263   height:  181)
+
+FPS:5.6 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  990   top_y:  841   width:  313   height:  450)
+car: 99% 	(left_x: 2910   top_y: 1257   width:  255   height:  169)
+car: 84% 	(left_x: 1282   top_y:  895   width:   98   height:   95)
+
+FPS:5.5 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  983   top_y:  849   width:  307   height:  449)
+car: 100% 	(left_x: 2892   top_y: 1241   width:  246   height:  171)
+car: 92% 	(left_x: 1283   top_y:  898   width:   96   height:   94)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  978   top_y:  855   width:  310   height:  450)
+car: 99% 	(left_x: 2868   top_y: 1227   width:  252   height:  172)
+car: 96% 	(left_x: 1281   top_y:  900   width:   97   height:   94)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  977   top_y:  854   width:  311   height:  463)
+car: 100% 	(left_x: 2854   top_y: 1216   width:  240   height:  165)
+car: 85% 	(left_x: 1278   top_y:  901   width:   98   height:   93)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  975   top_y:  856   width:  308   height:  468)
+car: 100% 	(left_x: 2834   top_y: 1206   width:  238   height:  161)
+car: 96% 	(left_x: 1276   top_y:  902   width:   98   height:   94)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  962   top_y:  858   width:  311   height:  470)
+car: 99% 	(left_x: 2817   top_y: 1197   width:  235   height:  161)
+car: 98% 	(left_x: 1276   top_y:  905   width:   97   height:   95)
+
+FPS:6.0 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  956   top_y:  871   width:  314   height:  460)
+car: 99% 	(left_x: 2800   top_y: 1183   width:  232   height:  163)
+car: 99% 	(left_x: 1274   top_y:  908   width:   99   height:   97)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  949   top_y:  864   width:  325   height:  472)
+car: 99% 	(left_x: 2782   top_y: 1173   width:  234   height:  160)
+car: 97% 	(left_x: 1267   top_y:  909   width:  106   height:  100)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  952   top_y:  866   width:  318   height:  477)
+car: 99% 	(left_x: 2769   top_y: 1163   width:  220   height:  156)
+car: 97% 	(left_x: 1264   top_y:  911   width:  109   height:  102)
+
+FPS:5.9 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  943   top_y:  869   width:  322   height:  484)
+car: 100% 	(left_x: 2754   top_y: 1154   width:  216   height:  153)
+car: 90% 	(left_x: 1259   top_y:  920   width:  112   height:   96)
+
+FPS:5.8 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  940   top_y:  870   width:  326   height:  486)
+car: 100% 	(left_x: 2737   top_y: 1147   width:  222   height:  150)
+car: 89% 	(left_x: 1255   top_y:  921   width:  113   height:   95)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  931   top_y:  872   width:  336   height:  499)
+car: 98% 	(left_x: 2722   top_y: 1138   width:  220   height:  147)
+car: 86% 	(left_x: 1255   top_y:  923   width:  113   height:   95)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  927   top_y:  875   width:  341   height:  504)
+car: 99% 	(left_x: 2710   top_y: 1127   width:  211   height:  149)
+car: 76% 	(left_x: 1252   top_y:  922   width:  117   height:  100)
+
+FPS:5.7 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  914   top_y:  882   width:  349   height:  497)
+car: 99% 	(left_x: 2694   top_y: 1117   width:  214   height:  146)
+car: 84% 	(left_x: 1251   top_y:  925   width:  115   height:  101)
+
+FPS:5.5 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  905   top_y:  888   width:  355   height:  504)
+car: 99% 	(left_x: 2678   top_y: 1110   width:  210   height:  142)
+car: 93% 	(left_x: 1249   top_y:  928   width:  114   height:  100)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  889   top_y:  888   width:  367   height:  511)
+car: 99% 	(left_x: 2671   top_y: 1098   width:  199   height:  144)
+car: 90% 	(left_x: 1246   top_y:  928   width:  118   height:  104)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  874   top_y:  890   width:  386   height:  517)
+car: 100% 	(left_x: 2658   top_y: 1096   width:  200   height:  136)
+car: 95% 	(left_x: 1242   top_y:  929   width:  122   height:  106)
+
+FPS:5.6 	 AVG_FPS:5.4
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  866   top_y:  894   width:  386   height:  516)
+car: 100% 	(left_x: 2642   top_y: 1088   width:  202   height:  136)
+car: 97% 	(left_x: 1240   top_y:  932   width:  120   height:  107)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  864   top_y:  899   width:  390   height:  524)
+car: 98% 	(left_x: 2633   top_y: 1081   width:  198   height:  133)
+car: 98% 	(left_x: 1235   top_y:  934   width:  120   height:  106)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  867   top_y:  902   width:  378   height:  530)
+car: 97% 	(left_x: 2616   top_y: 1070   width:  198   height:  138)
+car: 95% 	(left_x: 1228   top_y:  937   width:  128   height:  108)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  850   top_y:  909   width:  394   height:  534)
+car: 98% 	(left_x: 2608   top_y: 1063   width:  194   height:  131)
+car: 95% 	(left_x: 1226   top_y:  945   width:  131   height:  105)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  845   top_y:  908   width:  391   height:  546)
+car: 99% 	(left_x: 2595   top_y: 1058   width:  189   height:  126)
+car: 96% 	(left_x: 1218   top_y:  945   width:  139   height:  109)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  841   top_y:  910   width:  393   height:  553)
+car: 97% 	(left_x: 2585   top_y: 1050   width:  183   height:  130)
+car: 97% 	(left_x: 1217   top_y:  948   width:  139   height:  108)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  840   top_y:  910   width:  388   height:  568)
+car: 96% 	(left_x: 1215   top_y:  952   width:  136   height:  107)
+car: 95% 	(left_x: 2572   top_y: 1044   width:  187   height:  127)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  834   top_y:  911   width:  383   height:  581)
+car: 99% 	(left_x: 2561   top_y: 1040   width:  187   height:  124)
+car: 94% 	(left_x: 1214   top_y:  952   width:  133   height:  115)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  823   top_y:  914   width:  397   height:  591)
+car: 99% 	(left_x: 2547   top_y: 1035   width:  189   height:  124)
+car: 96% 	(left_x: 1208   top_y:  955   width:  134   height:  114)
+
+FPS:5.6 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  818   top_y:  919   width:  396   height:  595)
+car: 99% 	(left_x: 2544   top_y: 1027   width:  177   height:  121)
+car: 99% 	(left_x: 1211   top_y:  960   width:  131   height:  111)
+
+FPS:5.6 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  821   top_y:  920   width:  391   height:  602)
+car: 97% 	(left_x: 1207   top_y:  964   width:  135   height:  108)
+car: 96% 	(left_x: 2526   top_y: 1021   width:  180   height:  122)
+
+FPS:5.5 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  797   top_y:  930   width:  409   height:  591)
+car: 93% 	(left_x: 2515   top_y: 1013   width:  182   height:  120)
+car: 91% 	(left_x: 1202   top_y:  965   width:  139   height:  110)
+
+FPS:5.5 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  777   top_y:  934   width:  434   height:  596)
+car: 95% 	(left_x: 1203   top_y:  971   width:  136   height:  112)
+car: 89% 	(left_x: 2509   top_y: 1009   width:  175   height:  115)
+
+FPS:5.4 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  765   top_y:  936   width:  446   height:  607)
+car: 93% 	(left_x: 1193   top_y:  975   width:  147   height:  111)
+car: 89% 	(left_x: 2500   top_y: 1002   width:  169   height:  118)
+
+FPS:5.5 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  747   top_y:  947   width:  463   height:  619)
+car: 93% 	(left_x: 1197   top_y:  980   width:  142   height:  111)
+car: 90% 	(left_x: 2490   top_y:  997   width:  172   height:  116)
+
+FPS:5.4 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  732   top_y:  950   width:  480   height:  625)
+car: 97% 	(left_x: 1193   top_y:  982   width:  141   height:  113)
+car: 94% 	(left_x: 2485   top_y:  991   width:  166   height:  119)
+
+FPS:5.4 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  725   top_y:  953   width:  482   height:  625)
+car: 98% 	(left_x: 1185   top_y:  984   width:  152   height:  117)
+car: 91% 	(left_x: 2467   top_y:  987   width:  172   height:  116)
+
+FPS:5.3 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  722   top_y:  956   width:  478   height:  641)
+car: 98% 	(left_x: 1183   top_y:  985   width:  150   height:  123)
+car: 98% 	(left_x: 2461   top_y:  983   width:  170   height:  112)
+
+FPS:5.4 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  714   top_y:  965   width:  485   height:  639)
+car: 97% 	(left_x: 1182   top_y:  987   width:  148   height:  122)
+car: 94% 	(left_x: 2455   top_y:  977   width:  161   height:  109)
+
+FPS:5.5 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  703   top_y:  970   width:  483   height:  650)
+car: 99% 	(left_x: 1175   top_y:  988   width:  157   height:  127)
+car: 93% 	(left_x: 2450   top_y:  973   width:  157   height:  106)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  703   top_y:  975   width:  483   height:  656)
+car: 99% 	(left_x: 1172   top_y:  991   width:  160   height:  126)
+car: 97% 	(left_x: 2434   top_y:  965   width:  163   height:  112)
+
+FPS:5.5 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  695   top_y:  978   width:  484   height:  666)
+car: 99% 	(left_x: 1167   top_y:  997   width:  165   height:  125)
+car: 85% 	(left_x: 2426   top_y:  960   width:  157   height:  109)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  692   top_y:  981   width:  484   height:  681)
+car: 99% 	(left_x: 1167   top_y: 1002   width:  162   height:  125)
+car: 91% 	(left_x: 2420   top_y:  959   width:  155   height:  106)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  669   top_y:  985   width:  502   height:  695)
+car: 99% 	(left_x: 1160   top_y: 1007   width:  168   height:  124)
+car: 88% 	(left_x: 2417   top_y:  954   width:  147   height:  104)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  654   top_y:  987   width:  515   height:  709)
+car: 99% 	(left_x: 1162   top_y: 1009   width:  166   height:  125)
+car: 88% 	(left_x: 2403   top_y:  948   width:  152   height:  106)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  647   top_y:  991   width:  507   height:  718)
+car: 98% 	(left_x: 1164   top_y: 1013   width:  161   height:  126)
+car: 89% 	(left_x: 2396   top_y:  943   width:  154   height:  107)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x:  633   top_y:  988   width:  516   height:  740)
+car: 94% 	(left_x: 1161   top_y: 1019   width:  161   height:  127)
+car: 94% 	(left_x: 2388   top_y:  938   width:  146   height:  105)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  615   top_y: 1002   width:  534   height:  746)
+car: 95% 	(left_x: 1160   top_y: 1022   width:  159   height:  127)
+car: 94% 	(left_x: 2381   top_y:  934   width:  146   height:  103)
+
+FPS:5.6 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  599   top_y: 1003   width:  542   height:  751)
+car: 91% 	(left_x: 1155   top_y: 1026   width:  165   height:  129)
+car: 86% 	(left_x: 2370   top_y:  928   width:  155   height:  104)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  590   top_y:  999   width:  549   height:  775)
+car: 98% 	(left_x: 1151   top_y: 1029   width:  169   height:  133)
+car: 86% 	(left_x: 2363   top_y:  926   width:  148   height:   99)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  573   top_y: 1016   width:  563   height:  769)
+car: 99% 	(left_x: 1150   top_y: 1034   width:  171   height:  135)
+car: 90% 	(left_x: 2359   top_y:  923   width:  143   height:   99)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  548   top_y: 1019   width:  576   height:  780)
+car: 99% 	(left_x: 1151   top_y: 1038   width:  169   height:  135)
+car: 77% 	(left_x: 2352   top_y:  918   width:  141   height:  101)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  527   top_y: 1021   width:  591   height:  805)
+car: 99% 	(left_x: 1149   top_y: 1041   width:  169   height:  135)
+car: 87% 	(left_x: 2343   top_y:  917   width:  140   height:   95)
+
+FPS:5.7 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  519   top_y: 1025   width:  601   height:  811)
+car: 98% 	(left_x: 1144   top_y: 1044   width:  175   height:  139)
+car: 90% 	(left_x: 2339   top_y:  913   width:  138   height:   94)
+
+FPS:5.8 	 AVG_FPS:5.2
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  512   top_y: 1041   width:  609   height:  813)
+car: 99% 	(left_x: 1143   top_y: 1049   width:  174   height:  137)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  494   top_y: 1049   width:  604   height:  830)
+car: 98% 	(left_x: 1139   top_y: 1052   width:  177   height:  138)
+car: 80% 	(left_x: 2327   top_y:  906   width:  133   height:   91)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  489   top_y: 1058   width:  606   height:  853)
+car: 98% 	(left_x: 1137   top_y: 1060   width:  180   height:  135)
+car: 84% 	(left_x: 2320   top_y:  903   width:  134   height:   88)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  477   top_y: 1057   width:  612   height:  869)
+car: 98% 	(left_x: 1133   top_y: 1064   width:  184   height:  135)
+car: 93% 	(left_x: 2313   top_y:  902   width:  133   height:   87)
+
+FPS:5.9 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  451   top_y: 1065   width:  636   height:  885)
+car: 98% 	(left_x: 1132   top_y: 1069   width:  184   height:  142)
+car: 87% 	(left_x: 2308   top_y:  899   width:  128   height:   86)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  447   top_y: 1077   width:  636   height:  889)
+car: 98% 	(left_x: 1133   top_y: 1070   width:  178   height:  146)
+car: 83% 	(left_x: 2306   top_y:  892   width:  121   height:   88)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  426   top_y: 1082   width:  661   height:  894)
+car: 98% 	(left_x: 1135   top_y: 1074   width:  176   height:  147)
+car: 88% 	(left_x: 2297   top_y:  890   width:  126   height:   87)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  408   top_y: 1087   width:  666   height:  911)
+car: 98% 	(left_x: 1131   top_y: 1080   width:  180   height:  148)
+car: 94% 	(left_x: 2290   top_y:  884   width:  130   height:   88)
+
+FPS:5.8 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  388   top_y: 1092   width:  679   height:  942)
+car: 99% 	(left_x: 1130   top_y: 1086   width:  180   height:  150)
+car: 79% 	(left_x: 2285   top_y:  881   width:  126   height:   87)
+
+FPS:5.6 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  366   top_y: 1097   width:  685   height:  968)
+car: 98% 	(left_x: 1125   top_y: 1091   width:  185   height:  148)
+
+FPS:5.6 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  357   top_y: 1109   width:  676   height:  986)
+car: 98% 	(left_x: 1126   top_y: 1093   width:  184   height:  152)
+car: 85% 	(left_x: 2271   top_y:  875   width:  127   height:   85)
+
+FPS:5.7 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x:  323   top_y: 1122   width:  708   height:  975)
+car: 99% 	(left_x: 1125   top_y: 1096   width:  181   height:  153)
+car: 87% 	(left_x: 2265   top_y:  873   width:  125   height:   85)
+
+FPS:5.6 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:  299   top_y: 1133   width:  723   height:  991)
+car: 97% 	(left_x: 1123   top_y: 1102   width:  183   height:  153)
+car: 83% 	(left_x: 2259   top_y:  869   width:  123   height:   86)
+
+FPS:5.6 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  285   top_y: 1140   width:  726   height: 1010)
+car: 98% 	(left_x: 1118   top_y: 1111   width:  183   height:  151)
+
+FPS:6.0 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  261   top_y: 1149   width:  747   height: 1014)
+car: 95% 	(left_x: 1111   top_y: 1119   width:  193   height:  155)
+
+FPS:6.1 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  246   top_y: 1151   width:  758   height: 1011)
+car: 98% 	(left_x: 1111   top_y: 1123   width:  195   height:  154)
+car: 80% 	(left_x: 2245   top_y:  861   width:  124   height:   81)
+
+FPS:6.0 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  194   top_y: 1161   width:  801   height: 1007)
+car: 98% 	(left_x: 1112   top_y: 1129   width:  191   height:  158)
+car: 82% 	(left_x: 2242   top_y:  857   width:  117   height:   81)
+
+FPS:6.1 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:  174   top_y: 1166   width:  820   height:  996)
+car: 95% 	(left_x: 1110   top_y: 1133   width:  193   height:  160)
+car: 71% 	(left_x: 2235   top_y:  853   width:  119   height:   84)
+
+FPS:6.0 	 AVG_FPS:5.8
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  147   top_y: 1185   width:  832   height:  973)
+car: 99% 	(left_x: 1103   top_y: 1141   width:  201   height:  158)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:  117   top_y: 1197   width:  848   height:  956)
+car: 99% 	(left_x: 1104   top_y: 1148   width:  202   height:  155)
+car: 79% 	(left_x: 2229   top_y:  850   width:  115   height:   78)
+
+FPS:5.7 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:   67   top_y: 1210   width:  885   height:  943)
+car: 99% 	(left_x: 1104   top_y: 1153   width:  198   height:  163)
+car: 85% 	(left_x: 2222   top_y:  848   width:  115   height:   78)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:   40   top_y: 1219   width:  893   height:  934)
+car: 98% 	(left_x: 1102   top_y: 1157   width:  199   height:  167)
+car: 74% 	(left_x: 2219   top_y:  846   width:  113   height:   77)
+
+FPS:6.0 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:   19   top_y: 1226   width:  904   height:  929)
+car: 97% 	(left_x: 1099   top_y: 1164   width:  203   height:  162)
+
+FPS:5.9 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 99% 	(left_x:   13   top_y: 1241   width:  903   height:  912)
+car: 98% 	(left_x: 1092   top_y: 1169   width:  216   height:  172)
+
+FPS:6.0 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:    6   top_y: 1252   width:  903   height:  894)
+car: 98% 	(left_x: 1091   top_y: 1177   width:  216   height:  172)
+car: 86% 	(left_x: 2205   top_y:  835   width:  110   height:   78)
+
+FPS:5.9 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:    0   top_y: 1264   width:  905   height:  896)
+car: 95% 	(left_x: 1088   top_y: 1182   width:  222   height:  176)
+
+FPS:6.0 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:    0   top_y: 1274   width:  896   height:  884)
+car: 99% 	(left_x: 1088   top_y: 1192   width:  225   height:  174)
+
+FPS:6.0 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:    0   top_y: 1286   width:  881   height:  872)
+car: 99% 	(left_x: 1086   top_y: 1202   width:  228   height:  170)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:    0   top_y: 1298   width:  864   height:  861)
+car: 99% 	(left_x: 1086   top_y: 1206   width:  226   height:  176)
+
+FPS:5.8 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:    0   top_y: 1322   width:  847   height:  834)
+car: 97% 	(left_x: 1083   top_y: 1210   width:  233   height:  183)
+
+FPS:5.7 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 98% 	(left_x:    2   top_y: 1336   width:  831   height:  819)
+car: 99% 	(left_x: 1081   top_y: 1217   width:  235   height:  187)
+
+FPS:5.7 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:    4   top_y: 1351   width:  818   height:  809)
+car: 99% 	(left_x: 1069   top_y: 1229   width:  252   height:  184)
+
+FPS:5.7 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:   10   top_y: 1361   width:  801   height:  801)
+car: 99% 	(left_x: 1075   top_y: 1235   width:  237   height:  188)
+car: 73% 	(left_x: 2174   top_y:  819   width:  106   height:   72)
+
+FPS:5.6 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 97% 	(left_x:    5   top_y: 1379   width:  777   height:  778)
+car: 99% 	(left_x: 1074   top_y: 1242   width:  236   height:  190)
+
+FPS:5.6 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x:    3   top_y: 1394   width:  772   height:  765)
+car: 99% 	(left_x: 1071   top_y: 1250   width:  240   height:  193)
+
+FPS:5.6 	 AVG_FPS:5.7
+
+ cvWriteFrame 
+Objects:
+
+truck: 96% 	(left_x:    3   top_y: 1420   width:  748   height:  739)
+car: 99% 	(left_x: 1071   top_y: 1257   width:  242   height:  196)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 94% 	(left_x:    2   top_y: 1432   width:  735   height:  731)
+car: 99% 	(left_x: 1069   top_y: 1261   width:  238   height:  201)
+
+FPS:5.9 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 82% 	(left_x:    0   top_y: 1444   width:  728   height:  723)
+car: 99% 	(left_x: 1057   top_y: 1275   width:  256   height:  202)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 83% 	(left_x:    1   top_y: 1459   width:  706   height:  707)
+car: 99% 	(left_x: 1063   top_y: 1287   width:  249   height:  199)
+
+FPS:5.6 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 73% 	(left_x:    5   top_y: 1484   width:  670   height:  681)
+car: 99% 	(left_x: 1053   top_y: 1292   width:  257   height:  204)
+
+FPS:5.5 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1055   top_y: 1300   width:  255   height:  212)
+
+FPS:5.6 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1045   top_y: 1310   width:  268   height:  211)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+truck: 75% 	(left_x: 2142   top_y:  797   width:   95   height:   67)
+car: 99% 	(left_x: 1035   top_y: 1324   width:  276   height:  213)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1034   top_y: 1337   width:  274   height:  211)
+
+FPS:5.7 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1034   top_y: 1346   width:  275   height:  219)
+car: 72% 	(left_x: 2136   top_y:  794   width:   93   height:   68)
+
+FPS:5.5 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1035   top_y: 1353   width:  273   height:  223)
+
+FPS:5.4 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1031   top_y: 1360   width:  279   height:  226)
+
+FPS:5.4 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1026   top_y: 1377   width:  286   height:  226)
+
+FPS:5.4 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1027   top_y: 1392   width:  281   height:  229)
+
+FPS:5.4 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1027   top_y: 1397   width:  284   height:  237)
+car: 71% 	(left_x: 1505   top_y:  623   width:   73   height:   35)
+
+FPS:5.5 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1025   top_y: 1405   width:  285   height:  245)
+
+FPS:5.8 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1018   top_y: 1422   width:  294   height:  241)
+
+FPS:6.0 	 AVG_FPS:5.6
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1017   top_y: 1436   width:  291   height:  247)
+
+FPS:6.0 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x: 1011   top_y: 1448   width:  302   height:  250)
+
+FPS:5.9 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 81% 	(left_x: 2110   top_y:  775   width:   83   height:   63)
+car: 99% 	(left_x: 1006   top_y: 1459   width:  305   height:  251)
+
+FPS:5.8 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 73% 	(left_x: 2108   top_y:  775   width:   85   height:   60)
+car: 99% 	(left_x: 1001   top_y: 1481   width:  315   height:  252)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  992   top_y: 1495   width:  325   height:  255)
+
+FPS:5.6 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  981   top_y: 1501   width:  340   height:  273)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 73% 	(left_x: 2102   top_y:  770   width:   78   height:   61)
+car: 99% 	(left_x:  979   top_y: 1522   width:  344   height:  265)
+
+FPS:5.6 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  969   top_y: 1543   width:  352   height:  268)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+truck: 74% 	(left_x: 2095   top_y:  767   width:   83   height:   61)
+car: 99% 	(left_x:  970   top_y: 1551   width:  343   height:  282)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  968   top_y: 1566   width:  345   height:  296)
+
+FPS:5.9 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  955   top_y: 1585   width:  363   height:  295)
+
+FPS:5.9 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  958   top_y: 1604   width:  353   height:  293)
+
+FPS:5.9 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  939   top_y: 1618   width:  373   height:  306)
+
+FPS:5.8 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  930   top_y: 1633   width:  385   height:  312)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  941   top_y: 1656   width:  365   height:  316)
+
+FPS:5.7 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  920   top_y: 1674   width:  392   height:  330)
+
+FPS:5.6 	 AVG_FPS:5.5
+
+ cvWriteFrame 
+Objects:
+
+car: 97% 	(left_x:  910   top_y: 1696   width:  405   height:  335)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  904   top_y: 1711   width:  398   height:  356)
+
+FPS:5.5 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  902   top_y: 1741   width:  402   height:  343)
+
+FPS:5.7 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 99% 	(left_x:  891   top_y: 1768   width:  412   height:  351)
+
+FPS:5.8 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 98% 	(left_x:  882   top_y: 1782   width:  416   height:  377)
+
+FPS:6.0 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+truck: 71% 	(left_x: 2060   top_y:  746   width:   83   height:   57)
+car: 96% 	(left_x:  857   top_y: 1820   width:  441   height:  341)
+
+FPS:6.0 	 AVG_FPS:5.3
+
+ cvWriteFrame 
+Objects:
+
+car: 93% 	(left_x:  860   top_y: 1838   width:  437   height:  323)
+
+FPS:5.9 	 AVG_FPS:5.3
+Stream closed.
+
+ cvWriteFrame 
+input video stream closed. 
+ closing... closed!output_video_writer closed. 
