@@ -26,49 +26,16 @@ In order to use a different camera recording, you need to run VehicleDetection.i
 
 # Offset Coefficients
 
-We need 4 offset values for the program to run (offset, velocityOffset, distanceThreshold, cameraCoef). These values are written in the first line of the labels file. They are present in the example videos, however you need to add them manually if you're running the program with your own videos. After running the detection algorithm on Google Colab, add them to the labels file that you downloaded. These values depend on several variables such as: resolution of the video, FPS of the video, distance of the road, height of the camera. First two offset values are used to check if a vehicle is close enough to the detection lines so they get counted correctly. A vehicle might move way too many pixels between two frames if the fps is low, making the program to miss the vehicle. These offset values are used to combat this. The third value is used to re-identify the same vehicles over two frames using the tracker so that they get assigned the same vehicle ID's. This is important not to count the same vehicles multiple times.
+We need 4 offset values for the program to run (offset, velocityOffset, distanceThreshold, cameraCoef). These values are written in the first line of the labels file, seperated by spaces. They are present in the example videos, however you need to add them manually if you're running the program with your own videos. After running the detection algorithm on Google Colab, add them to the labels file that you downloaded. These values depend on several variables such as: resolution of the video, FPS of the video, distance of the road, height of the camera. 
 
+First two offset values are used to check if a vehicle is close enough to the detection lines so they get counted correctly. A vehicle might move way too many pixels between two frames if the fps is low, making the program miss the vehicle. These offset values are used to combat this. The third value is used to re-identify the same vehicles over two frames using the tracker so that they get assigned the same vehicle ID's. This is important not to count the same vehicles multiple times. The fourth and final value is used to estimate velocities. You might need to try different configurations for the program to run accurately. A recommended example for the coefficients are: 20 100 50 0.06
 
-# Best Configuration
+# Vehicle Tracker 
 
-We used pre-trained language model BERT for our pipeline. We compared three different pipeline configurations: a light configuration, a configuration using ConveRT, and a heavy configuration that included BERT. In each case we’re training a DIETClassifier for combined intent classification and entity recognition for 200 epochs, but in the light configuration we have CountVectorsFeaturizer, which creates bag-of-word representations for each incoming message at word and character levels. In the end, we chose config-light as the configuration of the chatbot.
+Each vehicle is given a unique ID, and in the next frame, the program checks if the same vehicles are still in the frame. The distance between the vehicles are calculated over two consecutive frames, and we can conclude that it’s the same vehicle from the previous frame if the distance is lower than a certain threshold. This improved the detection accuracy as well, because it became easier to check if a vehicle had already passed the detection line or not.
 
-# Results of the Configurations
+# Speed Estimation
 
-<p align="center"> 
-      <img width="600" alt="Ekran Resmi 2021-06-20 15 21 16" src="https://user-images.githubusercontent.com/52889449/122673919-7c657900-d1db-11eb-933f-430a6520ec19.png">
-</p>
+The first step in detecting velocity is to measure how many pixels a vehicle moved between two frames. This gives us pixels per frame, and if we multiply this with frames per second, we end up with pixels per second. Multiplying this number with the actual distance, the distance that represents a few pixels, we get the velocity of the vehicle in terms of meters per second. And, of course, we multiply this with 3.6 to get kilometers per hour.
 
-<p align="center"> 
-      <img width="600" alt="Ekran Resmi 2021-06-20 15 21 27" src="https://user-images.githubusercontent.com/52889449/122673920-7d96a600-d1db-11eb-9851-fcf36fc4f137.png">
-</p>
-
-In the images below, there are confusion matrices created by each configuration for intent classification and entity extraction in turn.
-
-### config-light:
-
-<p align="center">
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 26 15" src="https://user-images.githubusercontent.com/52889449/122674048-247b4200-d1dc-11eb-8cb3-dceebc77d571.png">
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 26 36" src="https://user-images.githubusercontent.com/52889449/122674049-25ac6f00-d1dc-11eb-8e26-9be55d352701.png">
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 27 25" src="https://user-images.githubusercontent.com/52889449/122674040-1d543400-d1dc-11eb-9f0d-d1936ddce096.png">
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 27 46" src="https://user-images.githubusercontent.com/52889449/122674055-29d88c80-d1dc-11eb-837a-37982315c32b.png">
-</p>
-
-
-### config-convert:
-
-<p align="center">  
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 30 19" src="https://user-images.githubusercontent.com/52889449/122674162-8b98f680-d1dc-11eb-8639-140cfff0a7fc.png">
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 30 30" src="https://user-images.githubusercontent.com/52889449/122674166-8d62ba00-d1dc-11eb-9989-7b5067375f23.png">
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 30 42" src="https://user-images.githubusercontent.com/52889449/122674170-8e93e700-d1dc-11eb-8990-297eecbf0ab7.png">
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 30 54" src="https://user-images.githubusercontent.com/52889449/122674174-8f2c7d80-d1dc-11eb-94d1-d875971e7942.png">
-</p>
-
-### config-heavy:
-
-<p align="center">    
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 32 01" src="https://user-images.githubusercontent.com/52889449/122674208-c0a54900-d1dc-11eb-8534-69aa843b5f2e.png">  
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 32 12" src="https://user-images.githubusercontent.com/52889449/122674209-c307a300-d1dc-11eb-9dce-836d022e241d.png">    
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 32 22" src="https://user-images.githubusercontent.com/52889449/122674210-c4d16680-d1dc-11eb-9503-ad7f33a51bef.png">   
-      <img width="400" alt="Ekran Resmi 2021-06-20 15 32 32" src="https://user-images.githubusercontent.com/52889449/122674213-c69b2a00-d1dc-11eb-8821-75aa89e2ee33.png">
-</p>
+In order to correctly measure the velocity of a vehicle, using a stationary camera recording, we need to know the actual distance between the camera and the road. And this distance changes for every other part of the road. We do not have this distance information for our test videos because they were downloaded from the internet. The simplest way to solve this problem was to guess the distance. Therefore, the speed estimation is far from perfect. However, at least the relative speeds between the vehicles are correct. Another solution would be to ask the user, just like we did with the detection lines. We can ask the user to draw a line on the road, perpendicular to the detection lines, and the user can enter the actual length of the drawn line. However, this would mean that the user would guess the distance so it wouldn’t improve the program much. The best solution would be of course to have our own cameras on highways and record our own videos. This way, we could actually measure the distance and consequently, the velocity.
