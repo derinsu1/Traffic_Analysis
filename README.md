@@ -47,16 +47,19 @@ In order to correctly measure the velocity of a vehicle, using a stationary came
 
 Here you can see the trimmed versions of the sample videos in the data folder.
 
+<br>
 
 Dutch Highway
 
 https://user-images.githubusercontent.com/54302889/145693761-2ebcf731-a7f3-420b-ac09-556ed04afda1.mp4
 
+<br>
 
 Swiss Highway
 
 https://user-images.githubusercontent.com/54302889/145693967-f59d4746-029b-49ad-893f-f03941202459.mov
 
+<br>
 
 Thai Highway
 
