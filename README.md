@@ -34,7 +34,7 @@ A recommended example for the coefficients are: 20 100 50 0.06
 
 # Vehicle Tracker 
 
-Each vehicle is given a unique ID, and in the next frame, the program checks if the same vehicles are still in the frame. The distance between the vehicles are calculated over two consecutive frames, and we can conclude that it’s the same vehicle from the previous frame if the distance is lower than a certain threshold. This improved the detection accuracy as well, because it became easier to check if a vehicle had already passed the detection line or not.
+Each vehicle is given a unique ID, and in the next frame, the program checks if the same vehicles are still in the frame. The distance between the vehicles are calculated over two consecutive frames, and we can conclude that it’s the same vehicle from the previous frame if the distance is lower than a certain threshold. This improved the detection accuracy as well, because it became easier to check if a vehicle had already passed the detection line or not. By default the program is set not to show the unique ID's for the vehicles. However you can un-comment the lines 173 and 174 to show the ID's.
 
 # Speed Estimation
 
