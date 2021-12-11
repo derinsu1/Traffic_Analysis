@@ -29,6 +29,7 @@ In order to use a different camera recording, you need to run VehicleDetection.i
 We need 4 offset values for the program to run (offset, velocityOffset, distanceThreshold, cameraCoef). These values are written in the first line of the labels file, seperated by spaces. They are present in the example videos, however you need to add them manually if you're running the program with your own videos. After running the detection algorithm on Google Colab, add them to the labels file that you downloaded. These values depend on several variables such as: resolution of the video, FPS of the video, distance of the road, height of the camera. 
 
 First two offset values are used to check if a vehicle is close enough to the detection lines so they get counted correctly. A vehicle might move way too many pixels between two frames if the fps is low, making the program miss the vehicle. These offset values are used to combat this. The third value is used to re-identify the same vehicles over two frames using the tracker so that they get assigned the same vehicle ID's. This is important not to count the same vehicles multiple times. The fourth and final value is used to estimate velocities. You might need to try different configurations for the program to run accurately. A recommended example for the coefficients are:
+
 20 100 50 0.06
 
 # Vehicle Tracker 
